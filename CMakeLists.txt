@@ -202,7 +202,7 @@ INCLUDE(mysql_add_executable)
 
 # Handle options
 OPTION(DISABLE_SHARED 
- "Don't build shared libraries, compile code as position-dependent" OFF)
+ "Don't build shared libraries, compile code as position-dependent" ON)
 MARK_AS_ADVANCED(DISABLE_SHARED)
 IF(DISABLE_SHARED)
   SET(WITHOUT_DYNAMIC_PLUGINS 1)
@@ -389,6 +389,7 @@ IF(NOT WITH_INNODB_MEMCACHED)
   ENDFOREACH()
 ENDIF()
 
+SET(CMAKE_INSTALL_PREFIX "./install")
 SET(PKG_INSTALL_PREFIX ${CMAKE_INSTALL_PREFIX} CACHE PATH 
     "Location where package will install itself on the target system")
 MESSAGE(STATUS "Installing to: ${PKG_INSTALL_PREFIX}")

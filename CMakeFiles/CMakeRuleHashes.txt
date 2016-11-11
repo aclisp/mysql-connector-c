@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+4244b7b2c568c8abf81a2558c5adf404 CMakeFiles/INFO_BIN
+59d9196127b59c256924ff72359350a6 CMakeFiles/INFO_SRC
+e267c777f99d1618bde8913326da5b2e CMakeFiles/abi_check
+e267c777f99d1618bde8913326da5b2e CMakeFiles/abi_check_all
+247f015ec0718e3d2a1ba8695426def8 CMakeFiles/ctags
+bde458df637c6056ae36044cff6e8311 CMakeFiles/tags
+ba7d3584cfd035a203cee1c6f1f9673c extra/CMakeFiles/GenError
+698ac020d009272c5d009f2ea57e8cf4 include/mysqld_error.h
+00913cf37dd0dc8d0b9c36fcd122240f libmysql/CMakeFiles/symlink_libmysqlclient_r.a
+52fab28da2ae9a6d479f02c65963ee49 libmysql/libmysqlclient_r.a
+a4e1fd056a1a25f41c9567f32eba5344 libmysql/mysqlclient_depends.c
