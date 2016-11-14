@@ -40,7 +40,16 @@
 #undef max_allowed_packet
 #undef net_buffer_length
 
+#ifdef MYSQL_SERVER
+#error "Should not be compiled as MYSQL_SERVER."
+#endif
+
+#ifdef MYSQL_CLIENT
+#warning "Should be compiled as MYSQL_CLIENT."
+#endif
+
 #ifdef EMBEDDED_LIBRARY
+#error "Should not be compiled as EMBEDDED_LIBRARY."
 
 #undef MYSQL_SERVER
 
@@ -4471,6 +4480,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
 
   /* Get version info */
   mysql->protocol_version= PROTOCOL_VERSION;	/* Assume this */
+  /* HH Fix: disable this check, so that connect_timeout is exactly socket connect!
   if (mysql->options.connect_timeout &&
       (vio_io_wait(net->vio, VIO_IO_EVENT_READ,
                    get_vio_connect_timeout(mysql)) < 1))
@@ -4480,7 +4490,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
                              "waiting for initial communication packet",
                              socket_errno);
     goto error;
-  }
+  } */
 
   /*
     Part 1: Connection established, read and parse first packet
