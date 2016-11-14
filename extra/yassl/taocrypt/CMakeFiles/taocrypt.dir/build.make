@@ -50,15 +50,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.o: extra/yassl/taocrypt/src/aes.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aes.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aes.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/aes.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp > CMakeFiles/taocrypt.dir/src/aes.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp > CMakeFiles/taocrypt.dir/src/aes.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/aes.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp -o CMakeFiles/taocrypt.dir/src/aes.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp -o CMakeFiles/taocrypt.dir/src/aes.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aes.cpp.o.requires
@@ -73,15 +73,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.o: extra/yassl/ta
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.o: extra/yassl/taocrypt/src/aestables.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aestables.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aestables.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/aestables.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp > CMakeFiles/taocrypt.dir/src/aestables.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp > CMakeFiles/taocrypt.dir/src/aestables.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/aestables.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp -o CMakeFiles/taocrypt.dir/src/aestables.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp -o CMakeFiles/taocrypt.dir/src/aestables.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/aestables.cpp.o.requires
@@ -96,15 +96,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.o: extra/yassl/taoc
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.o: extra/yassl/taocrypt/src/algebra.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/algebra.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/algebra.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/algebra.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp > CMakeFiles/taocrypt.dir/src/algebra.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp > CMakeFiles/taocrypt.dir/src/algebra.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/algebra.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp -o CMakeFiles/taocrypt.dir/src/algebra.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp -o CMakeFiles/taocrypt.dir/src/algebra.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/algebra.cpp.o.requires
@@ -119,15 +119,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.o: extra/yassl/taocryp
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.o: extra/yassl/taocrypt/src/arc4.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/arc4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/arc4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/arc4.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp > CMakeFiles/taocrypt.dir/src/arc4.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp > CMakeFiles/taocrypt.dir/src/arc4.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/arc4.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp -o CMakeFiles/taocrypt.dir/src/arc4.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp -o CMakeFiles/taocrypt.dir/src/arc4.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/arc4.cpp.o.requires
@@ -142,15 +142,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.o: extra/yassl/taocrypt/src/asn.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/asn.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/asn.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/asn.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp > CMakeFiles/taocrypt.dir/src/asn.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp > CMakeFiles/taocrypt.dir/src/asn.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/asn.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp -o CMakeFiles/taocrypt.dir/src/asn.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp -o CMakeFiles/taocrypt.dir/src/asn.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/asn.cpp.o.requires
@@ -165,15 +165,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.o: extra/yassl/taocr
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.o: extra/yassl/taocrypt/src/coding.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/coding.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/coding.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/coding.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp > CMakeFiles/taocrypt.dir/src/coding.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp > CMakeFiles/taocrypt.dir/src/coding.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/coding.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp -o CMakeFiles/taocrypt.dir/src/coding.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp -o CMakeFiles/taocrypt.dir/src/coding.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/coding.cpp.o.requires
@@ -188,15 +188,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.o: extra/yassl/taocrypt/src/des.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/des.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/des.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/des.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp > CMakeFiles/taocrypt.dir/src/des.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp > CMakeFiles/taocrypt.dir/src/des.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/des.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp -o CMakeFiles/taocrypt.dir/src/des.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp -o CMakeFiles/taocrypt.dir/src/des.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/des.cpp.o.requires
@@ -211,15 +211,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.o: extra/yassl/taocrypt/
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.o: extra/yassl/taocrypt/src/dh.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dh.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dh.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/dh.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp > CMakeFiles/taocrypt.dir/src/dh.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp > CMakeFiles/taocrypt.dir/src/dh.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/dh.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp -o CMakeFiles/taocrypt.dir/src/dh.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp -o CMakeFiles/taocrypt.dir/src/dh.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dh.cpp.o.requires
@@ -234,15 +234,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.o: extra/yassl/taocrypt/src/dsa.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/dsa.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp > CMakeFiles/taocrypt.dir/src/dsa.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp > CMakeFiles/taocrypt.dir/src/dsa.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/dsa.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp -o CMakeFiles/taocrypt.dir/src/dsa.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp -o CMakeFiles/taocrypt.dir/src/dsa.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/dsa.cpp.o.requires
@@ -257,15 +257,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.o: extra/yassl/taocryp
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.o: extra/yassl/taocrypt/src/file.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/file.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/file.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/file.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp > CMakeFiles/taocrypt.dir/src/file.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp > CMakeFiles/taocrypt.dir/src/file.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/file.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp -o CMakeFiles/taocrypt.dir/src/file.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp -o CMakeFiles/taocrypt.dir/src/file.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/file.cpp.o.requires
@@ -280,15 +280,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.o: extra/yassl/taocryp
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.o: extra/yassl/taocrypt/src/hash.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hash.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hash.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/hash.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp > CMakeFiles/taocrypt.dir/src/hash.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp > CMakeFiles/taocrypt.dir/src/hash.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/hash.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp -o CMakeFiles/taocrypt.dir/src/hash.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp -o CMakeFiles/taocrypt.dir/src/hash.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hash.cpp.o.requires
@@ -303,15 +303,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.o: extra/yassl/taoc
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.o: extra/yassl/taocrypt/src/integer.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/integer.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/integer.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/integer.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp > CMakeFiles/taocrypt.dir/src/integer.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp > CMakeFiles/taocrypt.dir/src/integer.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/integer.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp -o CMakeFiles/taocrypt.dir/src/integer.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp -o CMakeFiles/taocrypt.dir/src/integer.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/integer.cpp.o.requires
@@ -326,15 +326,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.o: extra/yassl/taocrypt/src/md2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md2.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md2.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/md2.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp > CMakeFiles/taocrypt.dir/src/md2.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp > CMakeFiles/taocrypt.dir/src/md2.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/md2.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp -o CMakeFiles/taocrypt.dir/src/md2.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp -o CMakeFiles/taocrypt.dir/src/md2.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md2.cpp.o.requires
@@ -349,15 +349,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.o: extra/yassl/taocrypt/src/md4.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/md4.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp > CMakeFiles/taocrypt.dir/src/md4.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp > CMakeFiles/taocrypt.dir/src/md4.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/md4.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp -o CMakeFiles/taocrypt.dir/src/md4.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp -o CMakeFiles/taocrypt.dir/src/md4.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md4.cpp.o.requires
@@ -372,15 +372,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.o: extra/yassl/taocrypt/src/md5.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md5.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md5.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/md5.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp > CMakeFiles/taocrypt.dir/src/md5.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp > CMakeFiles/taocrypt.dir/src/md5.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/md5.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp -o CMakeFiles/taocrypt.dir/src/md5.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp -o CMakeFiles/taocrypt.dir/src/md5.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/md5.cpp.o.requires
@@ -395,15 +395,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.o: extra/yassl/taocryp
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.o: extra/yassl/taocrypt/src/misc.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/misc.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/misc.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/misc.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp > CMakeFiles/taocrypt.dir/src/misc.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp > CMakeFiles/taocrypt.dir/src/misc.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/misc.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp -o CMakeFiles/taocrypt.dir/src/misc.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp -o CMakeFiles/taocrypt.dir/src/misc.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/misc.cpp.o.requires
@@ -418,15 +418,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.o: extra/yassl/taocr
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.o: extra/yassl/taocrypt/src/random.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/random.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/random.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/random.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp > CMakeFiles/taocrypt.dir/src/random.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp > CMakeFiles/taocrypt.dir/src/random.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/random.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp -o CMakeFiles/taocrypt.dir/src/random.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp -o CMakeFiles/taocrypt.dir/src/random.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/random.cpp.o.requires
@@ -441,15 +441,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.o: extra/yassl/taocr
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.o: extra/yassl/taocrypt/src/ripemd.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/ripemd.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/ripemd.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/ripemd.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp > CMakeFiles/taocrypt.dir/src/ripemd.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp > CMakeFiles/taocrypt.dir/src/ripemd.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/ripemd.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp -o CMakeFiles/taocrypt.dir/src/ripemd.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp -o CMakeFiles/taocrypt.dir/src/ripemd.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/ripemd.cpp.o.requires
@@ -464,15 +464,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.o: extra/yassl/taocrypt/src/rsa.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/rsa.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp > CMakeFiles/taocrypt.dir/src/rsa.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp > CMakeFiles/taocrypt.dir/src/rsa.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/rsa.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp -o CMakeFiles/taocrypt.dir/src/rsa.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp -o CMakeFiles/taocrypt.dir/src/rsa.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rsa.cpp.o.requires
@@ -487,15 +487,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.o: extra/yassl/taocrypt
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.o: extra/yassl/taocrypt/src/sha.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/sha.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/sha.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/sha.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp > CMakeFiles/taocrypt.dir/src/sha.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp > CMakeFiles/taocrypt.dir/src/sha.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/sha.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp -o CMakeFiles/taocrypt.dir/src/sha.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp -o CMakeFiles/taocrypt.dir/src/sha.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/sha.cpp.o.requires
@@ -510,15 +510,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.o: extra/yassl/taocr
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.o: extra/yassl/taocrypt/src/rabbit.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rabbit.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rabbit.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/rabbit.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp > CMakeFiles/taocrypt.dir/src/rabbit.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp > CMakeFiles/taocrypt.dir/src/rabbit.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/rabbit.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp -o CMakeFiles/taocrypt.dir/src/rabbit.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp -o CMakeFiles/taocrypt.dir/src/rabbit.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/rabbit.cpp.o.requires
@@ -533,15 +533,15 @@ extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.o: extra/yassl/taocry
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.o: extra/yassl/taocrypt/src/hc128.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.o"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hc128.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hc128.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/taocrypt.dir/src/hc128.cpp.i"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp > CMakeFiles/taocrypt.dir/src/hc128.cpp.i
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp > CMakeFiles/taocrypt.dir/src/hc128.cpp.i
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/taocrypt.dir/src/hc128.cpp.s"
-	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp -o CMakeFiles/taocrypt.dir/src/hc128.cpp.s
+	cd /home/huanghao/mysql-connector-c/extra/yassl/taocrypt && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp -o CMakeFiles/taocrypt.dir/src/hc128.cpp.s
 
 extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.o.requires:
 .PHONY : extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/src/hc128.cpp.o.requires

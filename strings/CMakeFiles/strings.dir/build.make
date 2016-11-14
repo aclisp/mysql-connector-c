@@ -50,15 +50,15 @@ strings/CMakeFiles/strings.dir/bchange.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/bchange.c.o: strings/bchange.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/bchange.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/bchange.c.o   -c /home/huanghao/mysql-connector-c/strings/bchange.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/bchange.c.o   -c /home/huanghao/mysql-connector-c/strings/bchange.c
 
 strings/CMakeFiles/strings.dir/bchange.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/bchange.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/bchange.c > CMakeFiles/strings.dir/bchange.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/bchange.c > CMakeFiles/strings.dir/bchange.c.i
 
 strings/CMakeFiles/strings.dir/bchange.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/bchange.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/bchange.c -o CMakeFiles/strings.dir/bchange.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/bchange.c -o CMakeFiles/strings.dir/bchange.c.s
 
 strings/CMakeFiles/strings.dir/bchange.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/bchange.c.o.requires
@@ -73,15 +73,15 @@ strings/CMakeFiles/strings.dir/ctype-big5.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/ctype-big5.c.o: strings/ctype-big5.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-big5.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-big5.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-big5.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-big5.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-big5.c
 
 strings/CMakeFiles/strings.dir/ctype-big5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-big5.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-big5.c > CMakeFiles/strings.dir/ctype-big5.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-big5.c > CMakeFiles/strings.dir/ctype-big5.c.i
 
 strings/CMakeFiles/strings.dir/ctype-big5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-big5.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-big5.c -o CMakeFiles/strings.dir/ctype-big5.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-big5.c -o CMakeFiles/strings.dir/ctype-big5.c.s
 
 strings/CMakeFiles/strings.dir/ctype-big5.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-big5.c.o.requires
@@ -96,15 +96,15 @@ strings/CMakeFiles/strings.dir/ctype-bin.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/ctype-bin.c.o: strings/ctype-bin.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-bin.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-bin.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-bin.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-bin.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-bin.c
 
 strings/CMakeFiles/strings.dir/ctype-bin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-bin.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-bin.c > CMakeFiles/strings.dir/ctype-bin.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-bin.c > CMakeFiles/strings.dir/ctype-bin.c.i
 
 strings/CMakeFiles/strings.dir/ctype-bin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-bin.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-bin.c -o CMakeFiles/strings.dir/ctype-bin.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-bin.c -o CMakeFiles/strings.dir/ctype-bin.c.s
 
 strings/CMakeFiles/strings.dir/ctype-bin.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-bin.c.o.requires
@@ -119,15 +119,15 @@ strings/CMakeFiles/strings.dir/ctype-cp932.c.o: strings/CMakeFiles/strings.dir/f
 strings/CMakeFiles/strings.dir/ctype-cp932.c.o: strings/ctype-cp932.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-cp932.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-cp932.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-cp932.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-cp932.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-cp932.c
 
 strings/CMakeFiles/strings.dir/ctype-cp932.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-cp932.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-cp932.c > CMakeFiles/strings.dir/ctype-cp932.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-cp932.c > CMakeFiles/strings.dir/ctype-cp932.c.i
 
 strings/CMakeFiles/strings.dir/ctype-cp932.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-cp932.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-cp932.c -o CMakeFiles/strings.dir/ctype-cp932.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-cp932.c -o CMakeFiles/strings.dir/ctype-cp932.c.s
 
 strings/CMakeFiles/strings.dir/ctype-cp932.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-cp932.c.o.requires
@@ -142,15 +142,15 @@ strings/CMakeFiles/strings.dir/ctype-czech.c.o: strings/CMakeFiles/strings.dir/f
 strings/CMakeFiles/strings.dir/ctype-czech.c.o: strings/ctype-czech.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-czech.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-czech.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-czech.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-czech.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-czech.c
 
 strings/CMakeFiles/strings.dir/ctype-czech.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-czech.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-czech.c > CMakeFiles/strings.dir/ctype-czech.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-czech.c > CMakeFiles/strings.dir/ctype-czech.c.i
 
 strings/CMakeFiles/strings.dir/ctype-czech.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-czech.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-czech.c -o CMakeFiles/strings.dir/ctype-czech.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-czech.c -o CMakeFiles/strings.dir/ctype-czech.c.s
 
 strings/CMakeFiles/strings.dir/ctype-czech.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-czech.c.o.requires
@@ -165,15 +165,15 @@ strings/CMakeFiles/strings.dir/ctype-euc_kr.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/ctype-euc_kr.c.o: strings/ctype-euc_kr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-euc_kr.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-euc_kr.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-euc_kr.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c
 
 strings/CMakeFiles/strings.dir/ctype-euc_kr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-euc_kr.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c > CMakeFiles/strings.dir/ctype-euc_kr.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c > CMakeFiles/strings.dir/ctype-euc_kr.c.i
 
 strings/CMakeFiles/strings.dir/ctype-euc_kr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-euc_kr.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c -o CMakeFiles/strings.dir/ctype-euc_kr.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c -o CMakeFiles/strings.dir/ctype-euc_kr.c.s
 
 strings/CMakeFiles/strings.dir/ctype-euc_kr.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-euc_kr.c.o.requires
@@ -188,15 +188,15 @@ strings/CMakeFiles/strings.dir/ctype-eucjpms.c.o: strings/CMakeFiles/strings.dir
 strings/CMakeFiles/strings.dir/ctype-eucjpms.c.o: strings/ctype-eucjpms.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-eucjpms.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-eucjpms.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-eucjpms.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c
 
 strings/CMakeFiles/strings.dir/ctype-eucjpms.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-eucjpms.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c > CMakeFiles/strings.dir/ctype-eucjpms.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c > CMakeFiles/strings.dir/ctype-eucjpms.c.i
 
 strings/CMakeFiles/strings.dir/ctype-eucjpms.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-eucjpms.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c -o CMakeFiles/strings.dir/ctype-eucjpms.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c -o CMakeFiles/strings.dir/ctype-eucjpms.c.s
 
 strings/CMakeFiles/strings.dir/ctype-eucjpms.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-eucjpms.c.o.requires
@@ -211,15 +211,15 @@ strings/CMakeFiles/strings.dir/ctype-extra.c.o: strings/CMakeFiles/strings.dir/f
 strings/CMakeFiles/strings.dir/ctype-extra.c.o: strings/ctype-extra.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-extra.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-extra.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-extra.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-extra.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-extra.c
 
 strings/CMakeFiles/strings.dir/ctype-extra.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-extra.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-extra.c > CMakeFiles/strings.dir/ctype-extra.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-extra.c > CMakeFiles/strings.dir/ctype-extra.c.i
 
 strings/CMakeFiles/strings.dir/ctype-extra.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-extra.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-extra.c -o CMakeFiles/strings.dir/ctype-extra.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-extra.c -o CMakeFiles/strings.dir/ctype-extra.c.s
 
 strings/CMakeFiles/strings.dir/ctype-extra.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-extra.c.o.requires
@@ -234,15 +234,15 @@ strings/CMakeFiles/strings.dir/ctype-gb2312.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/ctype-gb2312.c.o: strings/ctype-gb2312.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-gb2312.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-gb2312.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-gb2312.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c
 
 strings/CMakeFiles/strings.dir/ctype-gb2312.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-gb2312.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c > CMakeFiles/strings.dir/ctype-gb2312.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c > CMakeFiles/strings.dir/ctype-gb2312.c.i
 
 strings/CMakeFiles/strings.dir/ctype-gb2312.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-gb2312.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c -o CMakeFiles/strings.dir/ctype-gb2312.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c -o CMakeFiles/strings.dir/ctype-gb2312.c.s
 
 strings/CMakeFiles/strings.dir/ctype-gb2312.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-gb2312.c.o.requires
@@ -257,15 +257,15 @@ strings/CMakeFiles/strings.dir/ctype-gbk.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/ctype-gbk.c.o: strings/ctype-gbk.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-gbk.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-gbk.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gbk.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-gbk.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gbk.c
 
 strings/CMakeFiles/strings.dir/ctype-gbk.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-gbk.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-gbk.c > CMakeFiles/strings.dir/ctype-gbk.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-gbk.c > CMakeFiles/strings.dir/ctype-gbk.c.i
 
 strings/CMakeFiles/strings.dir/ctype-gbk.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-gbk.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-gbk.c -o CMakeFiles/strings.dir/ctype-gbk.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-gbk.c -o CMakeFiles/strings.dir/ctype-gbk.c.s
 
 strings/CMakeFiles/strings.dir/ctype-gbk.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-gbk.c.o.requires
@@ -280,15 +280,15 @@ strings/CMakeFiles/strings.dir/ctype-gb18030.c.o: strings/CMakeFiles/strings.dir
 strings/CMakeFiles/strings.dir/ctype-gb18030.c.o: strings/ctype-gb18030.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-gb18030.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-gb18030.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-gb18030.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c
 
 strings/CMakeFiles/strings.dir/ctype-gb18030.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-gb18030.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c > CMakeFiles/strings.dir/ctype-gb18030.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c > CMakeFiles/strings.dir/ctype-gb18030.c.i
 
 strings/CMakeFiles/strings.dir/ctype-gb18030.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-gb18030.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c -o CMakeFiles/strings.dir/ctype-gb18030.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c -o CMakeFiles/strings.dir/ctype-gb18030.c.s
 
 strings/CMakeFiles/strings.dir/ctype-gb18030.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-gb18030.c.o.requires
@@ -303,15 +303,15 @@ strings/CMakeFiles/strings.dir/ctype-latin1.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/ctype-latin1.c.o: strings/ctype-latin1.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-latin1.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-latin1.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-latin1.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-latin1.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-latin1.c
 
 strings/CMakeFiles/strings.dir/ctype-latin1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-latin1.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-latin1.c > CMakeFiles/strings.dir/ctype-latin1.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-latin1.c > CMakeFiles/strings.dir/ctype-latin1.c.i
 
 strings/CMakeFiles/strings.dir/ctype-latin1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-latin1.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-latin1.c -o CMakeFiles/strings.dir/ctype-latin1.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-latin1.c -o CMakeFiles/strings.dir/ctype-latin1.c.s
 
 strings/CMakeFiles/strings.dir/ctype-latin1.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-latin1.c.o.requires
@@ -326,15 +326,15 @@ strings/CMakeFiles/strings.dir/ctype-mb.c.o: strings/CMakeFiles/strings.dir/flag
 strings/CMakeFiles/strings.dir/ctype-mb.c.o: strings/ctype-mb.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-mb.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-mb.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-mb.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-mb.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-mb.c
 
 strings/CMakeFiles/strings.dir/ctype-mb.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-mb.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-mb.c > CMakeFiles/strings.dir/ctype-mb.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-mb.c > CMakeFiles/strings.dir/ctype-mb.c.i
 
 strings/CMakeFiles/strings.dir/ctype-mb.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-mb.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-mb.c -o CMakeFiles/strings.dir/ctype-mb.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-mb.c -o CMakeFiles/strings.dir/ctype-mb.c.s
 
 strings/CMakeFiles/strings.dir/ctype-mb.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-mb.c.o.requires
@@ -349,15 +349,15 @@ strings/CMakeFiles/strings.dir/ctype-simple.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/ctype-simple.c.o: strings/ctype-simple.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-simple.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-simple.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-simple.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-simple.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-simple.c
 
 strings/CMakeFiles/strings.dir/ctype-simple.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-simple.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-simple.c > CMakeFiles/strings.dir/ctype-simple.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-simple.c > CMakeFiles/strings.dir/ctype-simple.c.i
 
 strings/CMakeFiles/strings.dir/ctype-simple.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-simple.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-simple.c -o CMakeFiles/strings.dir/ctype-simple.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-simple.c -o CMakeFiles/strings.dir/ctype-simple.c.s
 
 strings/CMakeFiles/strings.dir/ctype-simple.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-simple.c.o.requires
@@ -372,15 +372,15 @@ strings/CMakeFiles/strings.dir/ctype-sjis.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/ctype-sjis.c.o: strings/ctype-sjis.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-sjis.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-sjis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-sjis.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-sjis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-sjis.c
 
 strings/CMakeFiles/strings.dir/ctype-sjis.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-sjis.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-sjis.c > CMakeFiles/strings.dir/ctype-sjis.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-sjis.c > CMakeFiles/strings.dir/ctype-sjis.c.i
 
 strings/CMakeFiles/strings.dir/ctype-sjis.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-sjis.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-sjis.c -o CMakeFiles/strings.dir/ctype-sjis.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-sjis.c -o CMakeFiles/strings.dir/ctype-sjis.c.s
 
 strings/CMakeFiles/strings.dir/ctype-sjis.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-sjis.c.o.requires
@@ -395,15 +395,15 @@ strings/CMakeFiles/strings.dir/ctype-tis620.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/ctype-tis620.c.o: strings/ctype-tis620.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-tis620.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-tis620.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-tis620.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-tis620.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-tis620.c
 
 strings/CMakeFiles/strings.dir/ctype-tis620.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-tis620.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-tis620.c > CMakeFiles/strings.dir/ctype-tis620.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-tis620.c > CMakeFiles/strings.dir/ctype-tis620.c.i
 
 strings/CMakeFiles/strings.dir/ctype-tis620.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-tis620.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-tis620.c -o CMakeFiles/strings.dir/ctype-tis620.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-tis620.c -o CMakeFiles/strings.dir/ctype-tis620.c.s
 
 strings/CMakeFiles/strings.dir/ctype-tis620.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-tis620.c.o.requires
@@ -418,15 +418,15 @@ strings/CMakeFiles/strings.dir/ctype-uca.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/ctype-uca.c.o: strings/ctype-uca.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-uca.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-uca.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-uca.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-uca.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-uca.c
 
 strings/CMakeFiles/strings.dir/ctype-uca.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-uca.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-uca.c > CMakeFiles/strings.dir/ctype-uca.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-uca.c > CMakeFiles/strings.dir/ctype-uca.c.i
 
 strings/CMakeFiles/strings.dir/ctype-uca.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-uca.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-uca.c -o CMakeFiles/strings.dir/ctype-uca.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-uca.c -o CMakeFiles/strings.dir/ctype-uca.c.s
 
 strings/CMakeFiles/strings.dir/ctype-uca.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-uca.c.o.requires
@@ -441,15 +441,15 @@ strings/CMakeFiles/strings.dir/ctype-ucs2.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/ctype-ucs2.c.o: strings/ctype-ucs2.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-ucs2.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-ucs2.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-ucs2.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c
 
 strings/CMakeFiles/strings.dir/ctype-ucs2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-ucs2.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c > CMakeFiles/strings.dir/ctype-ucs2.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c > CMakeFiles/strings.dir/ctype-ucs2.c.i
 
 strings/CMakeFiles/strings.dir/ctype-ucs2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-ucs2.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c -o CMakeFiles/strings.dir/ctype-ucs2.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c -o CMakeFiles/strings.dir/ctype-ucs2.c.s
 
 strings/CMakeFiles/strings.dir/ctype-ucs2.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-ucs2.c.o.requires
@@ -464,15 +464,15 @@ strings/CMakeFiles/strings.dir/ctype-ujis.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/ctype-ujis.c.o: strings/ctype-ujis.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-ujis.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-ujis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ujis.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-ujis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ujis.c
 
 strings/CMakeFiles/strings.dir/ctype-ujis.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-ujis.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-ujis.c > CMakeFiles/strings.dir/ctype-ujis.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-ujis.c > CMakeFiles/strings.dir/ctype-ujis.c.i
 
 strings/CMakeFiles/strings.dir/ctype-ujis.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-ujis.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-ujis.c -o CMakeFiles/strings.dir/ctype-ujis.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-ujis.c -o CMakeFiles/strings.dir/ctype-ujis.c.s
 
 strings/CMakeFiles/strings.dir/ctype-ujis.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-ujis.c.o.requires
@@ -487,15 +487,15 @@ strings/CMakeFiles/strings.dir/ctype-utf8.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/ctype-utf8.c.o: strings/ctype-utf8.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-utf8.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-utf8.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-utf8.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-utf8.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-utf8.c
 
 strings/CMakeFiles/strings.dir/ctype-utf8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-utf8.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-utf8.c > CMakeFiles/strings.dir/ctype-utf8.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-utf8.c > CMakeFiles/strings.dir/ctype-utf8.c.i
 
 strings/CMakeFiles/strings.dir/ctype-utf8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-utf8.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-utf8.c -o CMakeFiles/strings.dir/ctype-utf8.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-utf8.c -o CMakeFiles/strings.dir/ctype-utf8.c.s
 
 strings/CMakeFiles/strings.dir/ctype-utf8.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-utf8.c.o.requires
@@ -510,15 +510,15 @@ strings/CMakeFiles/strings.dir/ctype-win1250ch.c.o: strings/CMakeFiles/strings.d
 strings/CMakeFiles/strings.dir/ctype-win1250ch.c.o: strings/ctype-win1250ch.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype-win1250ch.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype-win1250ch.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype-win1250ch.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c
 
 strings/CMakeFiles/strings.dir/ctype-win1250ch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype-win1250ch.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c > CMakeFiles/strings.dir/ctype-win1250ch.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c > CMakeFiles/strings.dir/ctype-win1250ch.c.i
 
 strings/CMakeFiles/strings.dir/ctype-win1250ch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype-win1250ch.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c -o CMakeFiles/strings.dir/ctype-win1250ch.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c -o CMakeFiles/strings.dir/ctype-win1250ch.c.s
 
 strings/CMakeFiles/strings.dir/ctype-win1250ch.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype-win1250ch.c.o.requires
@@ -533,15 +533,15 @@ strings/CMakeFiles/strings.dir/ctype.c.o: strings/CMakeFiles/strings.dir/flags.m
 strings/CMakeFiles/strings.dir/ctype.c.o: strings/ctype.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/ctype.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/ctype.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/ctype.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype.c
 
 strings/CMakeFiles/strings.dir/ctype.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/ctype.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/ctype.c > CMakeFiles/strings.dir/ctype.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/ctype.c > CMakeFiles/strings.dir/ctype.c.i
 
 strings/CMakeFiles/strings.dir/ctype.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/ctype.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/ctype.c -o CMakeFiles/strings.dir/ctype.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/ctype.c -o CMakeFiles/strings.dir/ctype.c.s
 
 strings/CMakeFiles/strings.dir/ctype.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/ctype.c.o.requires
@@ -556,15 +556,15 @@ strings/CMakeFiles/strings.dir/decimal.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/decimal.c.o: strings/decimal.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_23)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/decimal.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/decimal.c.o   -c /home/huanghao/mysql-connector-c/strings/decimal.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/decimal.c.o   -c /home/huanghao/mysql-connector-c/strings/decimal.c
 
 strings/CMakeFiles/strings.dir/decimal.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/decimal.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/decimal.c > CMakeFiles/strings.dir/decimal.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/decimal.c > CMakeFiles/strings.dir/decimal.c.i
 
 strings/CMakeFiles/strings.dir/decimal.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/decimal.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/decimal.c -o CMakeFiles/strings.dir/decimal.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/decimal.c -o CMakeFiles/strings.dir/decimal.c.s
 
 strings/CMakeFiles/strings.dir/decimal.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/decimal.c.o.requires
@@ -579,15 +579,15 @@ strings/CMakeFiles/strings.dir/dtoa.c.o: strings/CMakeFiles/strings.dir/flags.ma
 strings/CMakeFiles/strings.dir/dtoa.c.o: strings/dtoa.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_24)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/dtoa.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/dtoa.c.o   -c /home/huanghao/mysql-connector-c/strings/dtoa.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/dtoa.c.o   -c /home/huanghao/mysql-connector-c/strings/dtoa.c
 
 strings/CMakeFiles/strings.dir/dtoa.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/dtoa.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/dtoa.c > CMakeFiles/strings.dir/dtoa.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/dtoa.c > CMakeFiles/strings.dir/dtoa.c.i
 
 strings/CMakeFiles/strings.dir/dtoa.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/dtoa.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/dtoa.c -o CMakeFiles/strings.dir/dtoa.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/dtoa.c -o CMakeFiles/strings.dir/dtoa.c.s
 
 strings/CMakeFiles/strings.dir/dtoa.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/dtoa.c.o.requires
@@ -602,15 +602,15 @@ strings/CMakeFiles/strings.dir/int2str.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/int2str.c.o: strings/int2str.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_25)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/int2str.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/int2str.c.o   -c /home/huanghao/mysql-connector-c/strings/int2str.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/int2str.c.o   -c /home/huanghao/mysql-connector-c/strings/int2str.c
 
 strings/CMakeFiles/strings.dir/int2str.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/int2str.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/int2str.c > CMakeFiles/strings.dir/int2str.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/int2str.c > CMakeFiles/strings.dir/int2str.c.i
 
 strings/CMakeFiles/strings.dir/int2str.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/int2str.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/int2str.c -o CMakeFiles/strings.dir/int2str.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/int2str.c -o CMakeFiles/strings.dir/int2str.c.s
 
 strings/CMakeFiles/strings.dir/int2str.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/int2str.c.o.requires
@@ -625,15 +625,15 @@ strings/CMakeFiles/strings.dir/is_prefix.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/is_prefix.c.o: strings/is_prefix.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_26)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/is_prefix.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/is_prefix.c.o   -c /home/huanghao/mysql-connector-c/strings/is_prefix.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/is_prefix.c.o   -c /home/huanghao/mysql-connector-c/strings/is_prefix.c
 
 strings/CMakeFiles/strings.dir/is_prefix.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/is_prefix.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/is_prefix.c > CMakeFiles/strings.dir/is_prefix.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/is_prefix.c > CMakeFiles/strings.dir/is_prefix.c.i
 
 strings/CMakeFiles/strings.dir/is_prefix.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/is_prefix.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/is_prefix.c -o CMakeFiles/strings.dir/is_prefix.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/is_prefix.c -o CMakeFiles/strings.dir/is_prefix.c.s
 
 strings/CMakeFiles/strings.dir/is_prefix.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/is_prefix.c.o.requires
@@ -648,15 +648,15 @@ strings/CMakeFiles/strings.dir/llstr.c.o: strings/CMakeFiles/strings.dir/flags.m
 strings/CMakeFiles/strings.dir/llstr.c.o: strings/llstr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_27)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/llstr.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/llstr.c.o   -c /home/huanghao/mysql-connector-c/strings/llstr.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/llstr.c.o   -c /home/huanghao/mysql-connector-c/strings/llstr.c
 
 strings/CMakeFiles/strings.dir/llstr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/llstr.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/llstr.c > CMakeFiles/strings.dir/llstr.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/llstr.c > CMakeFiles/strings.dir/llstr.c.i
 
 strings/CMakeFiles/strings.dir/llstr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/llstr.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/llstr.c -o CMakeFiles/strings.dir/llstr.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/llstr.c -o CMakeFiles/strings.dir/llstr.c.s
 
 strings/CMakeFiles/strings.dir/llstr.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/llstr.c.o.requires
@@ -671,15 +671,15 @@ strings/CMakeFiles/strings.dir/longlong2str.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/longlong2str.c.o: strings/longlong2str.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_28)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/longlong2str.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/longlong2str.c.o   -c /home/huanghao/mysql-connector-c/strings/longlong2str.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/longlong2str.c.o   -c /home/huanghao/mysql-connector-c/strings/longlong2str.c
 
 strings/CMakeFiles/strings.dir/longlong2str.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/longlong2str.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/longlong2str.c > CMakeFiles/strings.dir/longlong2str.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/longlong2str.c > CMakeFiles/strings.dir/longlong2str.c.i
 
 strings/CMakeFiles/strings.dir/longlong2str.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/longlong2str.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/longlong2str.c -o CMakeFiles/strings.dir/longlong2str.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/longlong2str.c -o CMakeFiles/strings.dir/longlong2str.c.s
 
 strings/CMakeFiles/strings.dir/longlong2str.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/longlong2str.c.o.requires
@@ -694,15 +694,15 @@ strings/CMakeFiles/strings.dir/my_strtoll10.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/my_strtoll10.c.o: strings/my_strtoll10.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_29)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/my_strtoll10.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/my_strtoll10.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strtoll10.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/my_strtoll10.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strtoll10.c
 
 strings/CMakeFiles/strings.dir/my_strtoll10.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/my_strtoll10.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/my_strtoll10.c > CMakeFiles/strings.dir/my_strtoll10.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/my_strtoll10.c > CMakeFiles/strings.dir/my_strtoll10.c.i
 
 strings/CMakeFiles/strings.dir/my_strtoll10.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/my_strtoll10.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/my_strtoll10.c -o CMakeFiles/strings.dir/my_strtoll10.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/my_strtoll10.c -o CMakeFiles/strings.dir/my_strtoll10.c.s
 
 strings/CMakeFiles/strings.dir/my_strtoll10.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/my_strtoll10.c.o.requires
@@ -717,15 +717,15 @@ strings/CMakeFiles/strings.dir/my_vsnprintf.c.o: strings/CMakeFiles/strings.dir/
 strings/CMakeFiles/strings.dir/my_vsnprintf.c.o: strings/my_vsnprintf.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_30)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/my_vsnprintf.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/my_vsnprintf.c.o   -c /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/my_vsnprintf.c.o   -c /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c
 
 strings/CMakeFiles/strings.dir/my_vsnprintf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/my_vsnprintf.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c > CMakeFiles/strings.dir/my_vsnprintf.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c > CMakeFiles/strings.dir/my_vsnprintf.c.i
 
 strings/CMakeFiles/strings.dir/my_vsnprintf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/my_vsnprintf.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c -o CMakeFiles/strings.dir/my_vsnprintf.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c -o CMakeFiles/strings.dir/my_vsnprintf.c.s
 
 strings/CMakeFiles/strings.dir/my_vsnprintf.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/my_vsnprintf.c.o.requires
@@ -740,15 +740,15 @@ strings/CMakeFiles/strings.dir/str2int.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/str2int.c.o: strings/str2int.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_31)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/str2int.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/str2int.c.o   -c /home/huanghao/mysql-connector-c/strings/str2int.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/str2int.c.o   -c /home/huanghao/mysql-connector-c/strings/str2int.c
 
 strings/CMakeFiles/strings.dir/str2int.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/str2int.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/str2int.c > CMakeFiles/strings.dir/str2int.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/str2int.c > CMakeFiles/strings.dir/str2int.c.i
 
 strings/CMakeFiles/strings.dir/str2int.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/str2int.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/str2int.c -o CMakeFiles/strings.dir/str2int.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/str2int.c -o CMakeFiles/strings.dir/str2int.c.s
 
 strings/CMakeFiles/strings.dir/str2int.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/str2int.c.o.requires
@@ -763,15 +763,15 @@ strings/CMakeFiles/strings.dir/str_alloc.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/str_alloc.c.o: strings/str_alloc.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_32)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/str_alloc.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/str_alloc.c.o   -c /home/huanghao/mysql-connector-c/strings/str_alloc.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/str_alloc.c.o   -c /home/huanghao/mysql-connector-c/strings/str_alloc.c
 
 strings/CMakeFiles/strings.dir/str_alloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/str_alloc.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/str_alloc.c > CMakeFiles/strings.dir/str_alloc.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/str_alloc.c > CMakeFiles/strings.dir/str_alloc.c.i
 
 strings/CMakeFiles/strings.dir/str_alloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/str_alloc.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/str_alloc.c -o CMakeFiles/strings.dir/str_alloc.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/str_alloc.c -o CMakeFiles/strings.dir/str_alloc.c.s
 
 strings/CMakeFiles/strings.dir/str_alloc.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/str_alloc.c.o.requires
@@ -786,15 +786,15 @@ strings/CMakeFiles/strings.dir/strcend.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/strcend.c.o: strings/strcend.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_33)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strcend.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strcend.c.o   -c /home/huanghao/mysql-connector-c/strings/strcend.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strcend.c.o   -c /home/huanghao/mysql-connector-c/strings/strcend.c
 
 strings/CMakeFiles/strings.dir/strcend.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strcend.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strcend.c > CMakeFiles/strings.dir/strcend.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strcend.c > CMakeFiles/strings.dir/strcend.c.i
 
 strings/CMakeFiles/strings.dir/strcend.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strcend.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strcend.c -o CMakeFiles/strings.dir/strcend.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strcend.c -o CMakeFiles/strings.dir/strcend.c.s
 
 strings/CMakeFiles/strings.dir/strcend.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strcend.c.o.requires
@@ -809,15 +809,15 @@ strings/CMakeFiles/strings.dir/strend.c.o: strings/CMakeFiles/strings.dir/flags.
 strings/CMakeFiles/strings.dir/strend.c.o: strings/strend.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_34)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strend.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strend.c.o   -c /home/huanghao/mysql-connector-c/strings/strend.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strend.c.o   -c /home/huanghao/mysql-connector-c/strings/strend.c
 
 strings/CMakeFiles/strings.dir/strend.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strend.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strend.c > CMakeFiles/strings.dir/strend.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strend.c > CMakeFiles/strings.dir/strend.c.i
 
 strings/CMakeFiles/strings.dir/strend.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strend.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strend.c -o CMakeFiles/strings.dir/strend.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strend.c -o CMakeFiles/strings.dir/strend.c.s
 
 strings/CMakeFiles/strings.dir/strend.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strend.c.o.requires
@@ -832,15 +832,15 @@ strings/CMakeFiles/strings.dir/strfill.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/strfill.c.o: strings/strfill.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_35)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strfill.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strfill.c.o   -c /home/huanghao/mysql-connector-c/strings/strfill.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strfill.c.o   -c /home/huanghao/mysql-connector-c/strings/strfill.c
 
 strings/CMakeFiles/strings.dir/strfill.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strfill.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strfill.c > CMakeFiles/strings.dir/strfill.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strfill.c > CMakeFiles/strings.dir/strfill.c.i
 
 strings/CMakeFiles/strings.dir/strfill.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strfill.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strfill.c -o CMakeFiles/strings.dir/strfill.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strfill.c -o CMakeFiles/strings.dir/strfill.c.s
 
 strings/CMakeFiles/strings.dir/strfill.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strfill.c.o.requires
@@ -855,15 +855,15 @@ strings/CMakeFiles/strings.dir/strmake.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/strmake.c.o: strings/strmake.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_36)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strmake.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strmake.c.o   -c /home/huanghao/mysql-connector-c/strings/strmake.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strmake.c.o   -c /home/huanghao/mysql-connector-c/strings/strmake.c
 
 strings/CMakeFiles/strings.dir/strmake.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strmake.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strmake.c > CMakeFiles/strings.dir/strmake.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strmake.c > CMakeFiles/strings.dir/strmake.c.i
 
 strings/CMakeFiles/strings.dir/strmake.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strmake.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strmake.c -o CMakeFiles/strings.dir/strmake.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strmake.c -o CMakeFiles/strings.dir/strmake.c.s
 
 strings/CMakeFiles/strings.dir/strmake.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strmake.c.o.requires
@@ -878,15 +878,15 @@ strings/CMakeFiles/strings.dir/my_stpmov.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/my_stpmov.c.o: strings/my_stpmov.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_37)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/my_stpmov.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/my_stpmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpmov.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/my_stpmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpmov.c
 
 strings/CMakeFiles/strings.dir/my_stpmov.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/my_stpmov.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/my_stpmov.c > CMakeFiles/strings.dir/my_stpmov.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/my_stpmov.c > CMakeFiles/strings.dir/my_stpmov.c.i
 
 strings/CMakeFiles/strings.dir/my_stpmov.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/my_stpmov.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/my_stpmov.c -o CMakeFiles/strings.dir/my_stpmov.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/my_stpmov.c -o CMakeFiles/strings.dir/my_stpmov.c.s
 
 strings/CMakeFiles/strings.dir/my_stpmov.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/my_stpmov.c.o.requires
@@ -901,15 +901,15 @@ strings/CMakeFiles/strings.dir/my_stpnmov.c.o: strings/CMakeFiles/strings.dir/fl
 strings/CMakeFiles/strings.dir/my_stpnmov.c.o: strings/my_stpnmov.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_38)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/my_stpnmov.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/my_stpnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpnmov.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/my_stpnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpnmov.c
 
 strings/CMakeFiles/strings.dir/my_stpnmov.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/my_stpnmov.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/my_stpnmov.c > CMakeFiles/strings.dir/my_stpnmov.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/my_stpnmov.c > CMakeFiles/strings.dir/my_stpnmov.c.i
 
 strings/CMakeFiles/strings.dir/my_stpnmov.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/my_stpnmov.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/my_stpnmov.c -o CMakeFiles/strings.dir/my_stpnmov.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/my_stpnmov.c -o CMakeFiles/strings.dir/my_stpnmov.c.s
 
 strings/CMakeFiles/strings.dir/my_stpnmov.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/my_stpnmov.c.o.requires
@@ -924,15 +924,15 @@ strings/CMakeFiles/strings.dir/strxmov.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/strxmov.c.o: strings/strxmov.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_39)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strxmov.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strxmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxmov.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strxmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxmov.c
 
 strings/CMakeFiles/strings.dir/strxmov.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strxmov.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strxmov.c > CMakeFiles/strings.dir/strxmov.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strxmov.c > CMakeFiles/strings.dir/strxmov.c.i
 
 strings/CMakeFiles/strings.dir/strxmov.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strxmov.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strxmov.c -o CMakeFiles/strings.dir/strxmov.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strxmov.c -o CMakeFiles/strings.dir/strxmov.c.s
 
 strings/CMakeFiles/strings.dir/strxmov.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strxmov.c.o.requires
@@ -947,15 +947,15 @@ strings/CMakeFiles/strings.dir/strxnmov.c.o: strings/CMakeFiles/strings.dir/flag
 strings/CMakeFiles/strings.dir/strxnmov.c.o: strings/strxnmov.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_40)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strxnmov.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strxnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxnmov.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strxnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxnmov.c
 
 strings/CMakeFiles/strings.dir/strxnmov.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strxnmov.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strxnmov.c > CMakeFiles/strings.dir/strxnmov.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strxnmov.c > CMakeFiles/strings.dir/strxnmov.c.i
 
 strings/CMakeFiles/strings.dir/strxnmov.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strxnmov.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strxnmov.c -o CMakeFiles/strings.dir/strxnmov.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strxnmov.c -o CMakeFiles/strings.dir/strxnmov.c.s
 
 strings/CMakeFiles/strings.dir/strxnmov.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strxnmov.c.o.requires
@@ -970,15 +970,15 @@ strings/CMakeFiles/strings.dir/xml.c.o: strings/CMakeFiles/strings.dir/flags.mak
 strings/CMakeFiles/strings.dir/xml.c.o: strings/xml.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_41)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/xml.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/xml.c.o   -c /home/huanghao/mysql-connector-c/strings/xml.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/xml.c.o   -c /home/huanghao/mysql-connector-c/strings/xml.c
 
 strings/CMakeFiles/strings.dir/xml.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/xml.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/xml.c > CMakeFiles/strings.dir/xml.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/xml.c > CMakeFiles/strings.dir/xml.c.i
 
 strings/CMakeFiles/strings.dir/xml.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/xml.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/xml.c -o CMakeFiles/strings.dir/xml.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/xml.c -o CMakeFiles/strings.dir/xml.c.s
 
 strings/CMakeFiles/strings.dir/xml.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/xml.c.o.requires
@@ -993,15 +993,15 @@ strings/CMakeFiles/strings.dir/my_strchr.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/my_strchr.c.o: strings/my_strchr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_42)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/my_strchr.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/my_strchr.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strchr.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/my_strchr.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strchr.c
 
 strings/CMakeFiles/strings.dir/my_strchr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/my_strchr.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/my_strchr.c > CMakeFiles/strings.dir/my_strchr.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/my_strchr.c > CMakeFiles/strings.dir/my_strchr.c.i
 
 strings/CMakeFiles/strings.dir/my_strchr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/my_strchr.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/my_strchr.c -o CMakeFiles/strings.dir/my_strchr.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/my_strchr.c -o CMakeFiles/strings.dir/my_strchr.c.s
 
 strings/CMakeFiles/strings.dir/my_strchr.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/my_strchr.c.o.requires
@@ -1016,15 +1016,15 @@ strings/CMakeFiles/strings.dir/strcont.c.o: strings/CMakeFiles/strings.dir/flags
 strings/CMakeFiles/strings.dir/strcont.c.o: strings/strcont.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_43)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strcont.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strcont.c.o   -c /home/huanghao/mysql-connector-c/strings/strcont.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strcont.c.o   -c /home/huanghao/mysql-connector-c/strings/strcont.c
 
 strings/CMakeFiles/strings.dir/strcont.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strcont.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strcont.c > CMakeFiles/strings.dir/strcont.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strcont.c > CMakeFiles/strings.dir/strcont.c.i
 
 strings/CMakeFiles/strings.dir/strcont.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strcont.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strcont.c -o CMakeFiles/strings.dir/strcont.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strcont.c -o CMakeFiles/strings.dir/strcont.c.s
 
 strings/CMakeFiles/strings.dir/strcont.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strcont.c.o.requires
@@ -1039,15 +1039,15 @@ strings/CMakeFiles/strings.dir/strappend.c.o: strings/CMakeFiles/strings.dir/fla
 strings/CMakeFiles/strings.dir/strappend.c.o: strings/strappend.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_44)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object strings/CMakeFiles/strings.dir/strappend.c.o"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/strings.dir/strappend.c.o   -c /home/huanghao/mysql-connector-c/strings/strappend.c
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/strings.dir/strappend.c.o   -c /home/huanghao/mysql-connector-c/strings/strappend.c
 
 strings/CMakeFiles/strings.dir/strappend.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/strings.dir/strappend.c.i"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/strings/strappend.c > CMakeFiles/strings.dir/strappend.c.i
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/strings/strappend.c > CMakeFiles/strings.dir/strappend.c.i
 
 strings/CMakeFiles/strings.dir/strappend.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/strings.dir/strappend.c.s"
-	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/strings/strappend.c -o CMakeFiles/strings.dir/strappend.c.s
+	cd /home/huanghao/mysql-connector-c/strings && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/strings/strappend.c -o CMakeFiles/strings.dir/strappend.c.s
 
 strings/CMakeFiles/strings.dir/strappend.c.o.requires:
 .PHONY : strings/CMakeFiles/strings.dir/strappend.c.o.requires

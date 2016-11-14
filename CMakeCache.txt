@@ -25,10 +25,10 @@ CMAKE_BUILD_TYPE:STRING=RelWithDebInfo
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //CXX compiler.
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
+CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++
 
 //Flags used by the compiler during all build types.
-CMAKE_CXX_FLAGS:STRING=
+CMAKE_CXX_FLAGS:STRING=-m32 -pthread
 
 //Flags used by the compiler during debug builds.
 CMAKE_CXX_FLAGS_DEBUG:STRING=-g
@@ -48,7 +48,7 @@ CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g
 CMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc
 
 //Flags used by the compiler during all build types.
-CMAKE_C_FLAGS:STRING=
+CMAKE_C_FLAGS:STRING=-m32 -pthread
 
 //Flags used by the compiler during debug builds.
 CMAKE_C_FLAGS_DEBUG:STRING=-g
@@ -80,10 +80,10 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
 //Enable/Disable output of compile commands during generation.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=OFF
+CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=ON
 
 //install prefix
-CMAKE_INSTALL_PREFIX:PATH=/usr/local/mysql
+CMAKE_INSTALL_PREFIX:PATH=./install
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=/usr/bin/ld
@@ -253,7 +253,7 @@ LibMySQL_SOURCE_DIR:STATIC=/home/huanghao/mysql-connector-c
 MANUFACTURER:STRING=Built from Source
 
 //default MySQL data directory
-MYSQL_DATADIR:PATH=./install/data
+MYSQL_DATADIR:PATH=./mysql/data
 
 //MySQL maintainer-specific development environment
 MYSQL_MAINTAINER_MODE:BOOL=OFF
@@ -270,12 +270,12 @@ SYSCONFDIR:PATH=/usr/local/mysql/etc
 //PATH to MySQL TMP dir. Defaults to the P_tmpdir macro in <stdio.h>
 TMPDIR:PATH=P_tmpdir
 
-WITH_ARCHIVE_STORAGE_ENGINE:BOOL=ON
+WITH_ARCHIVE_STORAGE_ENGINE:BOOL=OFF
 
 //Enable address sanitizer
 WITH_ASAN:BOOL=OFF
 
-WITH_BLACKHOLE_STORAGE_ENGINE:BOOL=ON
+WITH_BLACKHOLE_STORAGE_ENGINE:BOOL=OFF
 
 //Support for client-side protocol tracing plugins
 WITH_CLIENT_PROTOCOL_TRACING:BOOL=ON
@@ -289,7 +289,7 @@ WITH_DEFAULT_COMPILER_OPTIONS:BOOL=ON
 //Use feature set in cmake/build_configurations/feature_set.cmake
 WITH_DEFAULT_FEATURE_SET:BOOL=ON
 
-WITH_EMBEDDED_SERVER:BOOL=ON
+WITH_EMBEDDED_SERVER:BOOL=OFF
 
 //Options are: none, complex, all
 WITH_EXTRA_CHARSETS:STRING=all
@@ -297,9 +297,9 @@ WITH_EXTRA_CHARSETS:STRING=all
 //Compile with fast mutexes
 WITH_FAST_MUTEXES:BOOL=OFF
 
-WITH_FEDERATED_STORAGE_ENGINE:BOOL=ON
+WITH_FEDERATED_STORAGE_ENGINE:BOOL=OFF
 
-WITH_INNOBASE_STORAGE_ENGINE:BOOL=ON
+WITH_INNOBASE_STORAGE_ENGINE:BOOL=OFF
 
 //Compile with tcp wrappers support
 WITH_LIBWRAP:BOOL=OFF
@@ -307,7 +307,7 @@ WITH_LIBWRAP:BOOL=OFF
 //Enable memory sanitizer
 WITH_MSAN:BOOL=OFF
 
-WITH_PARTITION_STORAGE_ENGINE:BOOL=ON
+WITH_PARTITION_STORAGE_ENGINE:BOOL=OFF
 
 //Generate PIC objects
 WITH_PIC:BOOL=OFF

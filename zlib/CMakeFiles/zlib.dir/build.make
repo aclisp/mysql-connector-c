@@ -50,15 +50,15 @@ zlib/CMakeFiles/zlib.dir/adler32.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/adler32.c.o: zlib/adler32.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/adler32.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/adler32.c.o   -c /home/huanghao/mysql-connector-c/zlib/adler32.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/adler32.c.o   -c /home/huanghao/mysql-connector-c/zlib/adler32.c
 
 zlib/CMakeFiles/zlib.dir/adler32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/adler32.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/adler32.c > CMakeFiles/zlib.dir/adler32.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/adler32.c > CMakeFiles/zlib.dir/adler32.c.i
 
 zlib/CMakeFiles/zlib.dir/adler32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/adler32.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/adler32.c -o CMakeFiles/zlib.dir/adler32.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/adler32.c -o CMakeFiles/zlib.dir/adler32.c.s
 
 zlib/CMakeFiles/zlib.dir/adler32.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/adler32.c.o.requires
@@ -73,15 +73,15 @@ zlib/CMakeFiles/zlib.dir/compress.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/compress.c.o: zlib/compress.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/compress.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/compress.c.o   -c /home/huanghao/mysql-connector-c/zlib/compress.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/compress.c.o   -c /home/huanghao/mysql-connector-c/zlib/compress.c
 
 zlib/CMakeFiles/zlib.dir/compress.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/compress.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/compress.c > CMakeFiles/zlib.dir/compress.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/compress.c > CMakeFiles/zlib.dir/compress.c.i
 
 zlib/CMakeFiles/zlib.dir/compress.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/compress.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/compress.c -o CMakeFiles/zlib.dir/compress.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/compress.c -o CMakeFiles/zlib.dir/compress.c.s
 
 zlib/CMakeFiles/zlib.dir/compress.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/compress.c.o.requires
@@ -96,15 +96,15 @@ zlib/CMakeFiles/zlib.dir/crc32.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/crc32.c.o: zlib/crc32.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/crc32.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/crc32.c.o   -c /home/huanghao/mysql-connector-c/zlib/crc32.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/crc32.c.o   -c /home/huanghao/mysql-connector-c/zlib/crc32.c
 
 zlib/CMakeFiles/zlib.dir/crc32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/crc32.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/crc32.c > CMakeFiles/zlib.dir/crc32.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/crc32.c > CMakeFiles/zlib.dir/crc32.c.i
 
 zlib/CMakeFiles/zlib.dir/crc32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/crc32.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/crc32.c -o CMakeFiles/zlib.dir/crc32.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/crc32.c -o CMakeFiles/zlib.dir/crc32.c.s
 
 zlib/CMakeFiles/zlib.dir/crc32.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/crc32.c.o.requires
@@ -119,15 +119,15 @@ zlib/CMakeFiles/zlib.dir/deflate.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/deflate.c.o: zlib/deflate.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/deflate.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/deflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/deflate.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/deflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/deflate.c
 
 zlib/CMakeFiles/zlib.dir/deflate.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/deflate.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/deflate.c > CMakeFiles/zlib.dir/deflate.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/deflate.c > CMakeFiles/zlib.dir/deflate.c.i
 
 zlib/CMakeFiles/zlib.dir/deflate.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/deflate.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/deflate.c -o CMakeFiles/zlib.dir/deflate.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/deflate.c -o CMakeFiles/zlib.dir/deflate.c.s
 
 zlib/CMakeFiles/zlib.dir/deflate.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/deflate.c.o.requires
@@ -142,15 +142,15 @@ zlib/CMakeFiles/zlib.dir/gzio.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/gzio.c.o: zlib/gzio.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/gzio.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/gzio.c.o   -c /home/huanghao/mysql-connector-c/zlib/gzio.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/gzio.c.o   -c /home/huanghao/mysql-connector-c/zlib/gzio.c
 
 zlib/CMakeFiles/zlib.dir/gzio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/gzio.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/gzio.c > CMakeFiles/zlib.dir/gzio.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/gzio.c > CMakeFiles/zlib.dir/gzio.c.i
 
 zlib/CMakeFiles/zlib.dir/gzio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/gzio.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/gzio.c -o CMakeFiles/zlib.dir/gzio.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/gzio.c -o CMakeFiles/zlib.dir/gzio.c.s
 
 zlib/CMakeFiles/zlib.dir/gzio.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/gzio.c.o.requires
@@ -165,15 +165,15 @@ zlib/CMakeFiles/zlib.dir/infback.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/infback.c.o: zlib/infback.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/infback.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/infback.c.o   -c /home/huanghao/mysql-connector-c/zlib/infback.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/infback.c.o   -c /home/huanghao/mysql-connector-c/zlib/infback.c
 
 zlib/CMakeFiles/zlib.dir/infback.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/infback.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/infback.c > CMakeFiles/zlib.dir/infback.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/infback.c > CMakeFiles/zlib.dir/infback.c.i
 
 zlib/CMakeFiles/zlib.dir/infback.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/infback.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/infback.c -o CMakeFiles/zlib.dir/infback.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/infback.c -o CMakeFiles/zlib.dir/infback.c.s
 
 zlib/CMakeFiles/zlib.dir/infback.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/infback.c.o.requires
@@ -188,15 +188,15 @@ zlib/CMakeFiles/zlib.dir/inffast.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/inffast.c.o: zlib/inffast.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/inffast.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/inffast.c.o   -c /home/huanghao/mysql-connector-c/zlib/inffast.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/inffast.c.o   -c /home/huanghao/mysql-connector-c/zlib/inffast.c
 
 zlib/CMakeFiles/zlib.dir/inffast.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/inffast.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inffast.c > CMakeFiles/zlib.dir/inffast.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inffast.c > CMakeFiles/zlib.dir/inffast.c.i
 
 zlib/CMakeFiles/zlib.dir/inffast.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/inffast.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inffast.c -o CMakeFiles/zlib.dir/inffast.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inffast.c -o CMakeFiles/zlib.dir/inffast.c.s
 
 zlib/CMakeFiles/zlib.dir/inffast.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/inffast.c.o.requires
@@ -211,15 +211,15 @@ zlib/CMakeFiles/zlib.dir/inflate.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/inflate.c.o: zlib/inflate.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/inflate.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/inflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/inflate.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/inflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/inflate.c
 
 zlib/CMakeFiles/zlib.dir/inflate.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/inflate.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inflate.c > CMakeFiles/zlib.dir/inflate.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inflate.c > CMakeFiles/zlib.dir/inflate.c.i
 
 zlib/CMakeFiles/zlib.dir/inflate.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/inflate.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inflate.c -o CMakeFiles/zlib.dir/inflate.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inflate.c -o CMakeFiles/zlib.dir/inflate.c.s
 
 zlib/CMakeFiles/zlib.dir/inflate.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/inflate.c.o.requires
@@ -234,15 +234,15 @@ zlib/CMakeFiles/zlib.dir/inftrees.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/inftrees.c.o: zlib/inftrees.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/inftrees.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/inftrees.c.o   -c /home/huanghao/mysql-connector-c/zlib/inftrees.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/inftrees.c.o   -c /home/huanghao/mysql-connector-c/zlib/inftrees.c
 
 zlib/CMakeFiles/zlib.dir/inftrees.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/inftrees.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inftrees.c > CMakeFiles/zlib.dir/inftrees.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/inftrees.c > CMakeFiles/zlib.dir/inftrees.c.i
 
 zlib/CMakeFiles/zlib.dir/inftrees.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/inftrees.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inftrees.c -o CMakeFiles/zlib.dir/inftrees.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/inftrees.c -o CMakeFiles/zlib.dir/inftrees.c.s
 
 zlib/CMakeFiles/zlib.dir/inftrees.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/inftrees.c.o.requires
@@ -257,15 +257,15 @@ zlib/CMakeFiles/zlib.dir/trees.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/trees.c.o: zlib/trees.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/trees.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/trees.c.o   -c /home/huanghao/mysql-connector-c/zlib/trees.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/trees.c.o   -c /home/huanghao/mysql-connector-c/zlib/trees.c
 
 zlib/CMakeFiles/zlib.dir/trees.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/trees.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/trees.c > CMakeFiles/zlib.dir/trees.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/trees.c > CMakeFiles/zlib.dir/trees.c.i
 
 zlib/CMakeFiles/zlib.dir/trees.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/trees.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/trees.c -o CMakeFiles/zlib.dir/trees.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/trees.c -o CMakeFiles/zlib.dir/trees.c.s
 
 zlib/CMakeFiles/zlib.dir/trees.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/trees.c.o.requires
@@ -280,15 +280,15 @@ zlib/CMakeFiles/zlib.dir/uncompr.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/uncompr.c.o: zlib/uncompr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/uncompr.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/uncompr.c.o   -c /home/huanghao/mysql-connector-c/zlib/uncompr.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/uncompr.c.o   -c /home/huanghao/mysql-connector-c/zlib/uncompr.c
 
 zlib/CMakeFiles/zlib.dir/uncompr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/uncompr.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/uncompr.c > CMakeFiles/zlib.dir/uncompr.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/uncompr.c > CMakeFiles/zlib.dir/uncompr.c.i
 
 zlib/CMakeFiles/zlib.dir/uncompr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/uncompr.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/uncompr.c -o CMakeFiles/zlib.dir/uncompr.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/uncompr.c -o CMakeFiles/zlib.dir/uncompr.c.s
 
 zlib/CMakeFiles/zlib.dir/uncompr.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/uncompr.c.o.requires
@@ -303,15 +303,15 @@ zlib/CMakeFiles/zlib.dir/zutil.c.o: zlib/CMakeFiles/zlib.dir/flags.make
 zlib/CMakeFiles/zlib.dir/zutil.c.o: zlib/zutil.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object zlib/CMakeFiles/zlib.dir/zutil.c.o"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/zlib.dir/zutil.c.o   -c /home/huanghao/mysql-connector-c/zlib/zutil.c
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -o CMakeFiles/zlib.dir/zutil.c.o   -c /home/huanghao/mysql-connector-c/zlib/zutil.c
 
 zlib/CMakeFiles/zlib.dir/zutil.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zlib.dir/zutil.c.i"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/zutil.c > CMakeFiles/zlib.dir/zutil.c.i
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -E /home/huanghao/mysql-connector-c/zlib/zutil.c > CMakeFiles/zlib.dir/zutil.c.i
 
 zlib/CMakeFiles/zlib.dir/zutil.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zlib.dir/zutil.c.s"
-	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/zutil.c -o CMakeFiles/zlib.dir/zutil.c.s
+	cd /home/huanghao/mysql-connector-c/zlib && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS)  -fvisibility=hidden -S /home/huanghao/mysql-connector-c/zlib/zutil.c -o CMakeFiles/zlib.dir/zutil.c.s
 
 zlib/CMakeFiles/zlib.dir/zutil.c.o.requires:
 .PHONY : zlib/CMakeFiles/zlib.dir/zutil.c.o.requires

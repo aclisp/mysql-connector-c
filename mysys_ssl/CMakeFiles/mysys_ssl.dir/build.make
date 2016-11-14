@@ -50,15 +50,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o: mysys_ssl/CMakeFiles
 mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o: mysys_ssl/crypt_genhash_impl.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc > CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc > CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc -o CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc -o CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o.requires
@@ -73,15 +73,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o: mysys_ssl/CMakeFiles/mysys_s
 mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o: mysys_ssl/mf_tempdir.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -o CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc > CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc > CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc -o CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc -o CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o.requires
@@ -96,15 +96,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.o: mysys_ssl/CMakeFiles/mysys_s
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.o: mysys_ssl/my_default.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -o CMakeFiles/mysys_ssl.dir/my_default.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/mysys_ssl.dir/my_default.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_default.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc > CMakeFiles/mysys_ssl.dir/my_default.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc > CMakeFiles/mysys_ssl.dir/my_default.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_default.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc -o CMakeFiles/mysys_ssl.dir/my_default.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc -o CMakeFiles/mysys_ssl.dir/my_default.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_default.cc.o.requires
@@ -119,15 +119,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.o: mysys_ssl/CMakeFiles/mysys_ss
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.o: mysys_ssl/my_getopt.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -o CMakeFiles/mysys_ssl.dir/my_getopt.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/mysys_ssl.dir/my_getopt.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_getopt.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc > CMakeFiles/mysys_ssl.dir/my_getopt.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc > CMakeFiles/mysys_ssl.dir/my_getopt.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_getopt.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc -o CMakeFiles/mysys_ssl.dir/my_getopt.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc -o CMakeFiles/mysys_ssl.dir/my_getopt.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_getopt.cc.o.requires
@@ -142,15 +142,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.o: mysys_ssl/CMakeFiles/mysys_ssl.d
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.o: mysys_ssl/my_aes.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_aes.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc > CMakeFiles/mysys_ssl.dir/my_aes.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc > CMakeFiles/mysys_ssl.dir/my_aes.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_aes.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc -o CMakeFiles/mysys_ssl.dir/my_aes.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc -o CMakeFiles/mysys_ssl.dir/my_aes.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes.cc.o.requires
@@ -165,15 +165,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.o: mysys_ssl/CMakeFiles/mysys_ssl.
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.o: mysys_ssl/my_sha1.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha1.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha1.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_sha1.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc > CMakeFiles/mysys_ssl.dir/my_sha1.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc > CMakeFiles/mysys_ssl.dir/my_sha1.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_sha1.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc -o CMakeFiles/mysys_ssl.dir/my_sha1.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc -o CMakeFiles/mysys_ssl.dir/my_sha1.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha1.cc.o.requires
@@ -188,15 +188,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.o: mysys_ssl/CMakeFiles/mysys_ssl.
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.o: mysys_ssl/my_sha2.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha2.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha2.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_sha2.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc > CMakeFiles/mysys_ssl.dir/my_sha2.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc > CMakeFiles/mysys_ssl.dir/my_sha2.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_sha2.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc -o CMakeFiles/mysys_ssl.dir/my_sha2.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc -o CMakeFiles/mysys_ssl.dir/my_sha2.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_sha2.cc.o.requires
@@ -211,15 +211,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.o: mysys_ssl/CMakeFiles/mysys_ssl.d
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.o: mysys_ssl/my_md5.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_md5.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_md5.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_md5.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc > CMakeFiles/mysys_ssl.dir/my_md5.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc > CMakeFiles/mysys_ssl.dir/my_md5.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_md5.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc -o CMakeFiles/mysys_ssl.dir/my_md5.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc -o CMakeFiles/mysys_ssl.dir/my_md5.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_md5.cc.o.requires
@@ -234,15 +234,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.o: mysys_ssl/CMakeFiles/mysys_ssl.d
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.o: mysys_ssl/my_rnd.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -o CMakeFiles/mysys_ssl.dir/my_rnd.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/mysys_ssl.dir/my_rnd.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_rnd.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc > CMakeFiles/mysys_ssl.dir/my_rnd.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc > CMakeFiles/mysys_ssl.dir/my_rnd.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_rnd.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc -o CMakeFiles/mysys_ssl.dir/my_rnd.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc -o CMakeFiles/mysys_ssl.dir/my_rnd.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_rnd.cc.o.requires
@@ -257,15 +257,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o: mysys_ssl/CMakeFiles/mysys_s
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o: mysys_ssl/my_murmur3.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -o CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_murmur3.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc > CMakeFiles/mysys_ssl.dir/my_murmur3.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc > CMakeFiles/mysys_ssl.dir/my_murmur3.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_murmur3.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc -o CMakeFiles/mysys_ssl.dir/my_murmur3.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc -o CMakeFiles/mysys_ssl.dir/my_murmur3.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o.requires
@@ -280,15 +280,15 @@ mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o: mysys_ssl/CMakeFiles/mysys
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o: mysys_ssl/my_aes_yassl.cc
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.i"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc > CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.i
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -E /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc > CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.i
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.s"
-	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -fPIC -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc -o CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.s
+	cd /home/huanghao/mysql-connector-c/mysys_ssl && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -fvisibility=hidden -S /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc -o CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.s
 
 mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o.requires:
 .PHONY : mysys_ssl/CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o.requires

@@ -1,0 +1,1097 @@
+[
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/adler32.c.o   -c /home/huanghao/mysql-connector-c/zlib/adler32.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/adler32.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/compress.c.o   -c /home/huanghao/mysql-connector-c/zlib/compress.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/compress.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/crc32.c.o   -c /home/huanghao/mysql-connector-c/zlib/crc32.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/crc32.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/deflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/deflate.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/deflate.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/gzio.c.o   -c /home/huanghao/mysql-connector-c/zlib/gzio.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/gzio.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/infback.c.o   -c /home/huanghao/mysql-connector-c/zlib/infback.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/infback.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/inffast.c.o   -c /home/huanghao/mysql-connector-c/zlib/inffast.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/inffast.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/inflate.c.o   -c /home/huanghao/mysql-connector-c/zlib/inflate.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/inflate.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/inftrees.c.o   -c /home/huanghao/mysql-connector-c/zlib/inftrees.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/inftrees.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/trees.c.o   -c /home/huanghao/mysql-connector-c/zlib/trees.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/trees.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/uncompr.c.o   -c /home/huanghao/mysql-connector-c/zlib/uncompr.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/uncompr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/zlib",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib     -fvisibility=hidden -o CMakeFiles/zlib.dir/zutil.c.o   -c /home/huanghao/mysql-connector-c/zlib/zutil.c",
+  "file": "/home/huanghao/mysql-connector-c/zlib/zutil.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/buffer.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/buffer.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/buffer.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/cert_wrapper.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/cert_wrapper.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/cert_wrapper.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/crypto_wrapper.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/crypto_wrapper.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/crypto_wrapper.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/handshake.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/handshake.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/handshake.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/lock.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/lock.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/lock.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/log.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/log.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/log.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/socket_wrapper.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/socket_wrapper.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/socket_wrapper.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/ssl.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/ssl.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/ssl.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/timer.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/timer.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/timer.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/yassl_error.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/yassl_error.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/yassl_error.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/yassl_imp.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/yassl_imp.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/yassl_imp.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/src/yassl_int.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/src/yassl_int.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/src/yassl_int.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -Dget_tty_password_ext=yassl_mysql_get_tty_password_ext -Dget_tty_password=yassl_mysql_get_tty_password -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/yassl.dir/__/__/client/get_password.c.o   -c /home/huanghao/mysql-connector-c/client/get_password.c",
+  "file": "/home/huanghao/mysql-connector-c/client/get_password.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aes.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aes.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/aestables.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/aestables.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/algebra.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/algebra.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/arc4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/arc4.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/asn.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/asn.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/coding.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/coding.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/des.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/des.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dh.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dh.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/dsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/dsa.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/file.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/file.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hash.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hash.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/integer.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/integer.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md2.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md2.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md4.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md4.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/md5.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/md5.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/misc.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/misc.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/random.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/random.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/ripemd.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/ripemd.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rsa.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rsa.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/sha.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/sha.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/rabbit.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/rabbit.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED  -fvisibility=hidden -o CMakeFiles/taocrypt.dir/src/hc128.cpp.o -c /home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp",
+  "file": "/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/src/hc128.cpp"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/dbug",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/dbug    -o CMakeFiles/dbug.dir/dbug.c.o   -c /home/huanghao/mysql-connector-c/dbug/dbug.c",
+  "file": "/home/huanghao/mysql-connector-c/dbug/dbug.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/conf_to_src.dir/conf_to_src.c.o   -c /home/huanghao/mysql-connector-c/strings/conf_to_src.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/conf_to_src.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/bchange.c.o   -c /home/huanghao/mysql-connector-c/strings/bchange.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/bchange.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-big5.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-big5.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-big5.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-bin.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-bin.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-bin.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-cp932.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-cp932.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-cp932.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-czech.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-czech.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-czech.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-euc_kr.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-euc_kr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-eucjpms.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-eucjpms.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-extra.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-extra.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-extra.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-gb2312.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb2312.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-gb2312.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-gbk.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gbk.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-gbk.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-gb18030.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-gb18030.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-gb18030.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-latin1.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-latin1.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-latin1.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-mb.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-mb.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-mb.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-simple.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-simple.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-simple.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-sjis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-sjis.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-sjis.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-tis620.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-tis620.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-tis620.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-uca.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-uca.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-uca.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-ucs2.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ucs2.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-ucs2.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-ujis.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-ujis.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-ujis.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-utf8.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-utf8.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-utf8.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype-win1250ch.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype-win1250ch.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/ctype.c.o   -c /home/huanghao/mysql-connector-c/strings/ctype.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/ctype.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/decimal.c.o   -c /home/huanghao/mysql-connector-c/strings/decimal.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/decimal.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/dtoa.c.o   -c /home/huanghao/mysql-connector-c/strings/dtoa.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/dtoa.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/int2str.c.o   -c /home/huanghao/mysql-connector-c/strings/int2str.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/int2str.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/is_prefix.c.o   -c /home/huanghao/mysql-connector-c/strings/is_prefix.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/is_prefix.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/llstr.c.o   -c /home/huanghao/mysql-connector-c/strings/llstr.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/llstr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/longlong2str.c.o   -c /home/huanghao/mysql-connector-c/strings/longlong2str.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/longlong2str.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/my_strtoll10.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strtoll10.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/my_strtoll10.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/my_vsnprintf.c.o   -c /home/huanghao/mysql-connector-c/strings/my_vsnprintf.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/my_vsnprintf.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/str2int.c.o   -c /home/huanghao/mysql-connector-c/strings/str2int.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/str2int.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/str_alloc.c.o   -c /home/huanghao/mysql-connector-c/strings/str_alloc.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/str_alloc.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strcend.c.o   -c /home/huanghao/mysql-connector-c/strings/strcend.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strcend.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strend.c.o   -c /home/huanghao/mysql-connector-c/strings/strend.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strend.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strfill.c.o   -c /home/huanghao/mysql-connector-c/strings/strfill.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strfill.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strmake.c.o   -c /home/huanghao/mysql-connector-c/strings/strmake.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strmake.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/my_stpmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpmov.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/my_stpmov.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/my_stpnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/my_stpnmov.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/my_stpnmov.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strxmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxmov.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strxmov.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strxnmov.c.o   -c /home/huanghao/mysql-connector-c/strings/strxnmov.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strxnmov.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/xml.c.o   -c /home/huanghao/mysql-connector-c/strings/xml.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/xml.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/my_strchr.c.o   -c /home/huanghao/mysql-connector-c/strings/my_strchr.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/my_strchr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strcont.c.o   -c /home/huanghao/mysql-connector-c/strings/strcont.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strcont.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/strings",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DDISABLE_MYSQL_THREAD_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/strings.dir/strappend.c.o   -c /home/huanghao/mysql-connector-c/strings/strappend.c",
+  "file": "/home/huanghao/mysql-connector-c/strings/strappend.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/vio",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/vio.dir/vio.c.o   -c /home/huanghao/mysql-connector-c/vio/vio.c",
+  "file": "/home/huanghao/mysql-connector-c/vio/vio.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/vio",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/vio.dir/viosocket.c.o   -c /home/huanghao/mysql-connector-c/vio/viosocket.c",
+  "file": "/home/huanghao/mysql-connector-c/vio/viosocket.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/vio",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/vio.dir/viossl.c.o   -c /home/huanghao/mysql-connector-c/vio/viossl.c",
+  "file": "/home/huanghao/mysql-connector-c/vio/viossl.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/vio",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/vio.dir/viosslfactories.c.o   -c /home/huanghao/mysql-connector-c/vio/viosslfactories.c",
+  "file": "/home/huanghao/mysql-connector-c/vio/viosslfactories.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/regex",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/regex.dir/regcomp.c.o   -c /home/huanghao/mysql-connector-c/regex/regcomp.c",
+  "file": "/home/huanghao/mysql-connector-c/regex/regcomp.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/regex",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/regex.dir/regerror.c.o   -c /home/huanghao/mysql-connector-c/regex/regerror.c",
+  "file": "/home/huanghao/mysql-connector-c/regex/regerror.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/regex",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/regex.dir/regexec.c.o   -c /home/huanghao/mysql-connector-c/regex/regexec.c",
+  "file": "/home/huanghao/mysql-connector-c/regex/regexec.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/regex",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/regex.dir/regfree.c.o   -c /home/huanghao/mysql-connector-c/regex/regfree.c",
+  "file": "/home/huanghao/mysql-connector-c/regex/regfree.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/regex",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/regex.dir/reginit.c.o   -c /home/huanghao/mysql-connector-c/regex/reginit.c",
+  "file": "/home/huanghao/mysql-connector-c/regex/reginit.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/array.c.o   -c /home/huanghao/mysql-connector-c/mysys/array.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/array.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/charset-def.c.o   -c /home/huanghao/mysql-connector-c/mysys/charset-def.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/charset-def.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/charset.c.o   -c /home/huanghao/mysql-connector-c/mysys/charset.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/charset.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/checksum.c.o   -c /home/huanghao/mysql-connector-c/mysys/checksum.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/checksum.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/errors.c.o   -c /home/huanghao/mysql-connector-c/mysys/errors.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/errors.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/hash.c.o   -c /home/huanghao/mysql-connector-c/mysys/hash.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/hash.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/list.c.o   -c /home/huanghao/mysql-connector-c/mysys/list.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/list.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_cache.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_cache.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_cache.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_dirname.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_dirname.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_dirname.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_fn_ext.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_fn_ext.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_fn_ext.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_format.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_format.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_format.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_getdate.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_getdate.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_getdate.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_iocache.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_iocache.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_iocache.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_iocache2.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_iocache2.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_iocache2.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_keycache.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_keycache.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_keycache.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_keycaches.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_keycaches.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_keycaches.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_loadpath.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_loadpath.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_loadpath.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_pack.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_pack.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_pack.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_path.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_path.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_path.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_qsort.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_qsort.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_qsort.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_qsort2.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_qsort2.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_qsort2.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_radix.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_radix.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_radix.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_same.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_same.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_same.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_soundex.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_soundex.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_soundex.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_arr_appstr.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_arr_appstr.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_arr_appstr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_tempfile.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_tempfile.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_tempfile.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_unixpath.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_unixpath.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_unixpath.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mf_wcomp.c.o   -c /home/huanghao/mysql-connector-c/mysys/mf_wcomp.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mf_wcomp.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/mulalloc.c.o   -c /home/huanghao/mysql-connector-c/mysys/mulalloc.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/mulalloc.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_access.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_access.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_access.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_alloc.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_alloc.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_alloc.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_bit.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_bit.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_bit.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_bitmap.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_bitmap.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_bitmap.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_chsize.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_chsize.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_chsize.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_compress.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_compress.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_compress.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_copy.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_copy.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_copy.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_create.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_create.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_create.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_delete.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_delete.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_delete.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_div.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_div.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_div.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_error.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_error.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_error.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_file.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_file.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_file.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_fopen.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_fopen.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_fopen.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_fstream.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_fstream.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_fstream.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_gethwaddr.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_gethwaddr.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_gethwaddr.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_getsystime.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_getsystime.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_getsystime.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_getwd.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_getwd.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_getwd.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_compare.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_compare.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_compare.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_init.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_init.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_init.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_lib.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_lib.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_lib.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_lock.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_lock.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_lock.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_malloc.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_malloc.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_malloc.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_mess.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_mess.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_mess.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_mkdir.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_mkdir.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_mkdir.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_mmap.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_mmap.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_mmap.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_once.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_once.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_once.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_open.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_open.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_open.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_pread.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_pread.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_pread.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_read.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_read.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_read.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_redel.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_redel.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_redel.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_rename.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_rename.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_rename.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_seek.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_seek.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_seek.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_static.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_static.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_static.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_symlink.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_symlink.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_symlink.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_symlink2.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_symlink2.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_symlink2.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_sync.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_sync.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_sync.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_thr_init.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_thr_init.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_thr_init.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_write.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_write.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_write.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/ptr_cmp.c.o   -c /home/huanghao/mysql-connector-c/mysys/ptr_cmp.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/ptr_cmp.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/queues.c.o   -c /home/huanghao/mysql-connector-c/mysys/queues.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/queues.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/stacktrace.c.o   -c /home/huanghao/mysql-connector-c/mysys/stacktrace.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/stacktrace.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/string.c.o   -c /home/huanghao/mysql-connector-c/mysys/string.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/string.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/thr_cond.c.o   -c /home/huanghao/mysql-connector-c/mysys/thr_cond.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/thr_cond.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/thr_lock.c.o   -c /home/huanghao/mysql-connector-c/mysys/thr_lock.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/thr_lock.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/thr_mutex.c.o   -c /home/huanghao/mysql-connector-c/mysys/thr_mutex.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/thr_mutex.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/thr_rwlock.c.o   -c /home/huanghao/mysql-connector-c/mysys/thr_rwlock.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/thr_rwlock.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/tree.c.o   -c /home/huanghao/mysql-connector-c/mysys/tree.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/tree.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/typelib.c.o   -c /home/huanghao/mysql-connector-c/mysys/typelib.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/typelib.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/base64.c.o   -c /home/huanghao/mysql-connector-c/mysys/base64.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/base64.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_memmem.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_memmem.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_memmem.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/lf_alloc-pin.c.o   -c /home/huanghao/mysql-connector-c/mysys/lf_alloc-pin.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/lf_alloc-pin.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/lf_dynarray.c.o   -c /home/huanghao/mysql-connector-c/mysys/lf_dynarray.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/lf_dynarray.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/lf_hash.c.o   -c /home/huanghao/mysql-connector-c/mysys/lf_hash.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/lf_hash.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_rdtsc.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_rdtsc.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_rdtsc.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/psi_noop.c.o   -c /home/huanghao/mysql-connector-c/mysys/psi_noop.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/psi_noop.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_syslog.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_syslog.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_syslog.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_chmod.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_chmod.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_chmod.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/posix_timers.c.o   -c /home/huanghao/mysql-connector-c/mysys/posix_timers.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/posix_timers.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib -I/home/huanghao/mysql-connector-c/mysys    -o CMakeFiles/mysys.dir/my_largepage.c.o   -c /home/huanghao/mysql-connector-c/mysys/my_largepage.c",
+  "file": "/home/huanghao/mysql-connector-c/mysys/my_largepage.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/crypt_genhash_impl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/crypt_genhash_impl.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/mysys_ssl.dir/mf_tempdir.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/mf_tempdir.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/mysys_ssl.dir/my_default.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_default.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/mysys_ssl.dir/my_getopt.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_getopt.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_aes.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha1.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_sha1.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_sha2.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_sha2.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_md5.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_md5.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/mysys_ssl.dir/my_rnd.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_rnd.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -o CMakeFiles/mysys_ssl.dir/my_murmur3.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_murmur3.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/mysys_ssl",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/mysys_ssl -I/home/huanghao/mysql-connector-c/mysys -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -fvisibility=hidden -o CMakeFiles/mysys_ssl.dir/my_aes_yassl.cc.o -c /home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc",
+  "file": "/home/huanghao/mysql-connector-c/mysys_ssl/my_aes_yassl.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/get_password.c.o   -c /home/huanghao/mysql-connector-c/libmysql/get_password.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/get_password.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/libmysql.c.o   -c /home/huanghao/mysql-connector-c/libmysql/libmysql.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/libmysql.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/errmsg.c.o   -c /home/huanghao/mysql-connector-c/libmysql/errmsg.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/errmsg.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql-common/client.c.o   -c /home/huanghao/mysql-connector-c/sql-common/client.c",
+  "file": "/home/huanghao/mysql-connector-c/sql-common/client.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql-common/my_time.c.o   -c /home/huanghao/mysql-connector-c/sql-common/my_time.c",
+  "file": "/home/huanghao/mysql-connector-c/sql-common/my_time.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql-common/client_plugin.c.o   -c /home/huanghao/mysql-connector-c/sql-common/client_plugin.c",
+  "file": "/home/huanghao/mysql-connector-c/sql-common/client_plugin.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql-common/client_authentication.cc.o -c /home/huanghao/mysql-connector-c/sql-common/client_authentication.cc",
+  "file": "/home/huanghao/mysql-connector-c/sql-common/client_authentication.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/g++   -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql/net_serv.cc.o -c /home/huanghao/mysql-connector-c/sql/net_serv.cc",
+  "file": "/home/huanghao/mysql-connector-c/sql/net_serv.cc"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql-common/pack.c.o   -c /home/huanghao/mysql-connector-c/sql-common/pack.c",
+  "file": "/home/huanghao/mysql-connector-c/sql-common/pack.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/__/sql/auth/password.c.o   -c /home/huanghao/mysql-connector-c/sql/auth/password.c",
+  "file": "/home/huanghao/mysql-connector-c/sql/auth/password.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/clientlib.dir/mysql_trace.c.o   -c /home/huanghao/mysql-connector-c/libmysql/mysql_trace.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/mysql_trace.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/libmysql_api_test.dir/api_test.c.o   -c /home/huanghao/mysql-connector-c/libmysql/api_test.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/api_test.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/libmysql",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/libmysql -I/home/huanghao/mysql-connector-c/regex -I/home/huanghao/mysql-connector-c/sql -I/home/huanghao/mysql-connector-c/strings -I/home/huanghao/mysql-connector-c/extra/yassl/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/include -I/home/huanghao/mysql-connector-c/extra/yassl/taocrypt/mySTL -I/home/huanghao/mysql-connector-c/zlib    -DHAVE_YASSL -DYASSL_PREFIX -DHAVE_OPENSSL -DMULTI_THREADED -D CLIENT_PROTOCOL_TRACING -o CMakeFiles/mysqlclient.dir/mysqlclient_depends.c.o   -c /home/huanghao/mysql-connector-c/libmysql/mysqlclient_depends.c",
+  "file": "/home/huanghao/mysql-connector-c/libmysql/mysqlclient_depends.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DMUTEX_EVENT -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib    -o CMakeFiles/comp_err.dir/comp_err.c.o   -c /home/huanghao/mysql-connector-c/extra/comp_err.c",
+  "file": "/home/huanghao/mysql-connector-c/extra/comp_err.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DMUTEX_EVENT -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib    -o CMakeFiles/my_print_defaults.dir/my_print_defaults.c.o   -c /home/huanghao/mysql-connector-c/extra/my_print_defaults.c",
+  "file": "/home/huanghao/mysql-connector-c/extra/my_print_defaults.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DMUTEX_EVENT -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib    -o CMakeFiles/perror.dir/perror.c.o   -c /home/huanghao/mysql-connector-c/extra/perror.c",
+  "file": "/home/huanghao/mysql-connector-c/extra/perror.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/extra",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DMUTEX_EVENT -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include -I/home/huanghao/mysql-connector-c/zlib    -o CMakeFiles/resolveip.dir/resolveip.c.o   -c /home/huanghao/mysql-connector-c/extra/resolveip.c",
+  "file": "/home/huanghao/mysql-connector-c/extra/resolveip.c"
+},
+{
+  "directory": "/home/huanghao/mysql-connector-c/tests",
+  "command": "/usr/bin/gcc  -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_CONFIG_H -DMYSQL_CLIENT -m32 -pthread -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -O3 -g -fabi-version=2 -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF -I/home/huanghao/mysql-connector-c/include -I/home/huanghao/mysql-connector-c/extra/rapidjson/include    -o CMakeFiles/mysql_client_test.dir/mysql_client_test.c.o   -c /home/huanghao/mysql-connector-c/tests/mysql_client_test.c",
+  "file": "/home/huanghao/mysql-connector-c/tests/mysql_client_test.c"
+}
+]

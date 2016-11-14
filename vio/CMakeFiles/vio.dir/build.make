@@ -50,15 +50,15 @@ vio/CMakeFiles/vio.dir/vio.c.o: vio/CMakeFiles/vio.dir/flags.make
 vio/CMakeFiles/vio.dir/vio.c.o: vio/vio.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object vio/CMakeFiles/vio.dir/vio.c.o"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/vio.dir/vio.c.o   -c /home/huanghao/mysql-connector-c/vio/vio.c
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/vio.dir/vio.c.o   -c /home/huanghao/mysql-connector-c/vio/vio.c
 
 vio/CMakeFiles/vio.dir/vio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vio.dir/vio.c.i"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/vio/vio.c > CMakeFiles/vio.dir/vio.c.i
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/vio/vio.c > CMakeFiles/vio.dir/vio.c.i
 
 vio/CMakeFiles/vio.dir/vio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vio.dir/vio.c.s"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/vio/vio.c -o CMakeFiles/vio.dir/vio.c.s
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/vio/vio.c -o CMakeFiles/vio.dir/vio.c.s
 
 vio/CMakeFiles/vio.dir/vio.c.o.requires:
 .PHONY : vio/CMakeFiles/vio.dir/vio.c.o.requires
@@ -73,15 +73,15 @@ vio/CMakeFiles/vio.dir/viosocket.c.o: vio/CMakeFiles/vio.dir/flags.make
 vio/CMakeFiles/vio.dir/viosocket.c.o: vio/viosocket.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object vio/CMakeFiles/vio.dir/viosocket.c.o"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/vio.dir/viosocket.c.o   -c /home/huanghao/mysql-connector-c/vio/viosocket.c
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/vio.dir/viosocket.c.o   -c /home/huanghao/mysql-connector-c/vio/viosocket.c
 
 vio/CMakeFiles/vio.dir/viosocket.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vio.dir/viosocket.c.i"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/vio/viosocket.c > CMakeFiles/vio.dir/viosocket.c.i
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/vio/viosocket.c > CMakeFiles/vio.dir/viosocket.c.i
 
 vio/CMakeFiles/vio.dir/viosocket.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vio.dir/viosocket.c.s"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/vio/viosocket.c -o CMakeFiles/vio.dir/viosocket.c.s
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/vio/viosocket.c -o CMakeFiles/vio.dir/viosocket.c.s
 
 vio/CMakeFiles/vio.dir/viosocket.c.o.requires:
 .PHONY : vio/CMakeFiles/vio.dir/viosocket.c.o.requires
@@ -96,15 +96,15 @@ vio/CMakeFiles/vio.dir/viossl.c.o: vio/CMakeFiles/vio.dir/flags.make
 vio/CMakeFiles/vio.dir/viossl.c.o: vio/viossl.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object vio/CMakeFiles/vio.dir/viossl.c.o"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/vio.dir/viossl.c.o   -c /home/huanghao/mysql-connector-c/vio/viossl.c
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/vio.dir/viossl.c.o   -c /home/huanghao/mysql-connector-c/vio/viossl.c
 
 vio/CMakeFiles/vio.dir/viossl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vio.dir/viossl.c.i"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/vio/viossl.c > CMakeFiles/vio.dir/viossl.c.i
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/vio/viossl.c > CMakeFiles/vio.dir/viossl.c.i
 
 vio/CMakeFiles/vio.dir/viossl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vio.dir/viossl.c.s"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/vio/viossl.c -o CMakeFiles/vio.dir/viossl.c.s
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/vio/viossl.c -o CMakeFiles/vio.dir/viossl.c.s
 
 vio/CMakeFiles/vio.dir/viossl.c.o.requires:
 .PHONY : vio/CMakeFiles/vio.dir/viossl.c.o.requires
@@ -119,15 +119,15 @@ vio/CMakeFiles/vio.dir/viosslfactories.c.o: vio/CMakeFiles/vio.dir/flags.make
 vio/CMakeFiles/vio.dir/viosslfactories.c.o: vio/viosslfactories.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object vio/CMakeFiles/vio.dir/viosslfactories.c.o"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/vio.dir/viosslfactories.c.o   -c /home/huanghao/mysql-connector-c/vio/viosslfactories.c
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/vio.dir/viosslfactories.c.o   -c /home/huanghao/mysql-connector-c/vio/viosslfactories.c
 
 vio/CMakeFiles/vio.dir/viosslfactories.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vio.dir/viosslfactories.c.i"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/vio/viosslfactories.c > CMakeFiles/vio.dir/viosslfactories.c.i
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/vio/viosslfactories.c > CMakeFiles/vio.dir/viosslfactories.c.i
 
 vio/CMakeFiles/vio.dir/viosslfactories.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vio.dir/viosslfactories.c.s"
-	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/vio/viosslfactories.c -o CMakeFiles/vio.dir/viosslfactories.c.s
+	cd /home/huanghao/mysql-connector-c/vio && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/vio/viosslfactories.c -o CMakeFiles/vio.dir/viosslfactories.c.s
 
 vio/CMakeFiles/vio.dir/viosslfactories.c.o.requires:
 .PHONY : vio/CMakeFiles/vio.dir/viosslfactories.c.o.requires

@@ -2,14 +2,16 @@ Performing C++ SOURCE FILE Test HAVE_LLVM_LIBCPP failed with the following outpu
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building CXX object CMakeFiles/cmTryCompileExec.dir/src.cxx.o
-/usr/bin/c++    -DHAVE_LLVM_LIBCPP   -o CMakeFiles/cmTryCompileExec.dir/src.cxx.o -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx
+/usr/bin/g++    -DHAVE_LLVM_LIBCPP   -o CMakeFiles/cmTryCompileExec.dir/src.cxx.o -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx
 Linking CXX executable cmTryCompileExec
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
-/usr/bin/c++      -DHAVE_LLVM_LIBCPP    CMakeFiles/cmTryCompileExec.dir/src.cxx.o  -o cmTryCompileExec -rdynamic 
+/usr/bin/g++      -DHAVE_LLVM_LIBCPP    CMakeFiles/cmTryCompileExec.dir/src.cxx.o  -o cmTryCompileExec -rdynamic 
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 
 Return value: 1
@@ -28,8 +30,9 @@ Determining if the function pthread_create exists in the pthreads failed with th
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -38,17 +41,19 @@ Linking C executable cmTryCompileExec
 /usr/bin/gcc     -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o  -o cmTryCompileExec -rdynamic -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: ld returned 1 exit status
+make[2]: *** [cmTryCompileExec] Error 1
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function floor exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=floor   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -59,17 +64,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `floor'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function crypt exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=crypt   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -79,17 +86,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `crypt'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function dlopen exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=dlopen   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -99,17 +108,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `dlopen'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function clock_gettime exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=clock_gettime   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -119,17 +130,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `clock_gettime'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function timer_create exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=timer_create   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -139,25 +152,28 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `timer_create'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
+make[1]: *** [cmTryCompileExec/fast] Error 2
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if files ieeefp.h exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:20: fatal error: ieeefp.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source:
 /* */
@@ -170,16 +186,18 @@ Determining if files curses.h;term.h exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:20: fatal error: curses.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source:
 /* */
@@ -193,16 +211,18 @@ Determining if files vis.h exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:17: fatal error: vis.h: No such file or directory
 compilation terminated.
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source:
 /* */
@@ -215,16 +235,18 @@ Determining if files sasl/sasl.h exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:23: fatal error: sasl/sasl.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source:
 /* */
@@ -237,16 +259,18 @@ Determining if files sys/devpoll.h exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:25: fatal error: sys/devpoll.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source:
 /* */
@@ -259,8 +283,9 @@ Determining if the function _aligned_malloc exists failed with the following out
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=_aligned_malloc   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -270,17 +295,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `_aligned_malloc'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function printstack exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=printstack   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -290,17 +317,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `printstack'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function directio exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=directio   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -310,17 +339,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `directio'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function compress exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=compress   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -330,17 +361,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `compress'
 collect2: ld returned 1 exit status
+make[2]: *** [cmTryCompileExec] Error 1
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function gethrtime exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=gethrtime   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -350,17 +383,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `gethrtime'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function getpassphrase exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=getpassphrase   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -370,17 +405,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `getpassphrase'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
+make[1]: *** [cmTryCompileExec/fast] Error 2
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function issetugid exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=issetugid   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -390,17 +427,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `issetugid'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function setfd exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=setfd   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -410,17 +449,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `setfd'
 collect2: ld returned 1 exit status
+make[2]: *** [cmTryCompileExec] Error 1
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function strlcpy exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=strlcpy   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -430,17 +471,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `strlcpy'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function strlcat exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=strlcat   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -450,17 +493,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `strlcat'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function fgetln exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=fgetln   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -470,17 +515,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `fgetln'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function tell exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=tell   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -490,17 +537,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `tell'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function ntohll exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=ntohll   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -510,17 +559,19 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `ntohll'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the function kqueue exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=kqueue   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -530,25 +581,28 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `kqueue'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the FIONREAD exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: sys/filio.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 File /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -567,17 +621,19 @@ Determining if the SIGEV_PORT exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:9:25: error: ‘SIGEV_PORT’ undeclared (first use in this function)
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:9:25: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 File /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -597,8 +653,9 @@ Determining if the function kqueue exists failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
 /usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=kqueue   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
@@ -608,25 +665,28 @@ Linking C executable cmTryCompileExec
 CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
 CheckFunctionExists.c:(.text+0x7): undefined reference to `kqueue'
 collect2: ld returned 1 exit status
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [cmTryCompileExec] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Determining if the EVFILT_TIMER exist failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:23: fatal error: sys/event.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckSymbolExists.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 File /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -647,14 +707,16 @@ Determining if the system is big endian passed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/TestEndianess.c.o
 /usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/TestEndianess.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/TestEndianess.c
 Linking C executable cmTryCompileExec
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
 /usr/bin/gcc         CMakeFiles/cmTryCompileExec.dir/TestEndianess.c.o  -o cmTryCompileExec -rdynamic 
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 
 TestEndianess.c:
@@ -687,32 +749,36 @@ Determining if the include file netinet/in6.h exists failed with the following o
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
 /usr/bin/gcc  -D_LARGEFILE_SOURCE -D_LARGE_FILES -D_FILE_OFFSET_BITS=64 -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS  -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFile.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:25: fatal error: netinet/in6.h: No such file or directory
 compilation terminated.
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 
 Performing C SOURCE FILE Test HAVE_SOCKADDR_IN_SIN_LEN failed with the following output:
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
 /usr/bin/gcc  -D_LARGEFILE_SOURCE -D_LARGE_FILES -D_FILE_OFFSET_BITS=64 -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DHAVE_SOCKADDR_IN_SIN_LEN   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c:9:7: error: ‘struct sockaddr_in’ has no member named ‘sin_len’
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/src.c.o] Error 1
+make[1]: *** [cmTryCompileExec/fast] Error 2
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/src.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
 
 Source file was:
 
@@ -731,16 +797,18 @@ Performing C SOURCE FILE Test HAVE_SOCKADDR_IN6_SIN6_LEN failed with the followi
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
 /usr/bin/gcc  -D_LARGEFILE_SOURCE -D_LARGE_FILES -D_FILE_OFFSET_BITS=64 -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DHAVE_SOCKADDR_IN6_SIN6_LEN   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.c:9:7: error: ‘struct sockaddr_in6’ has no member named ‘sin6_len’
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/src.c.o] Error 1
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/src.c.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
+make[1]: *** [cmTryCompileExec/fast] Error 2
 
 Source file was:
 
@@ -759,11 +827,12 @@ Performing C++ SOURCE FILE Test HAVE_IMPLICIT_DEPENDENT_NAME_TYPING failed with 
 Change Dir: /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp
 
 Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
 make[1]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[2]: Entering directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/CMakeFiles 1
 Building CXX object CMakeFiles/cmTryCompileExec.dir/src.cxx.o
-/usr/bin/c++   -D_LARGEFILE_SOURCE -D_LARGE_FILES -D_FILE_OFFSET_BITS=64 -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DHAVE_IMPLICIT_DEPENDENT_NAME_TYPING   -o CMakeFiles/cmTryCompileExec.dir/src.cxx.o -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx
+/usr/bin/g++   -D_LARGEFILE_SOURCE -D_LARGE_FILES -D_FILE_OFFSET_BITS=64 -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DHAVE_IMPLICIT_DEPENDENT_NAME_TYPING   -o CMakeFiles/cmTryCompileExec.dir/src.cxx.o -c /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx: In member function ‘void ct2<T>::func()’:
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx:15:5: error: need ‘typename’ before ‘std::vector<T>::iterator’ because ‘std::vector<T>’ is a dependent scope
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx:15:30: error: expected ‘;’ before ‘itr’
@@ -771,9 +840,10 @@ Building CXX object CMakeFiles/cmTryCompileExec.dir/src.cxx.o
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx:21:13:   instantiated from here
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx:15:5: error: dependent-name ‘std::vector<T>::iterator’ is parsed as a non-type, but instantiation yields a type
 /home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp/src.cxx:15:5: note: say ‘typename std::vector<T>::iterator’ if a type is meant
+make[2]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
+make[2]: *** [CMakeFiles/cmTryCompileExec.dir/src.cxx.o] Error 1
+make[1]: *** [cmTryCompileExec/fast] Error 2
 make[1]: Leaving directory `/home/huanghao/mysql-connector-c/CMakeFiles/CMakeTmp'
-make[1]: *** [CMakeFiles/cmTryCompileExec.dir/src.cxx.o] Error 1
-make: *** [cmTryCompileExec/fast] Error 2
 
 Source file was:
 

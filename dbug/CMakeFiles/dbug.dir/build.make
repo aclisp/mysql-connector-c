@@ -50,15 +50,15 @@ dbug/CMakeFiles/dbug.dir/dbug.c.o: dbug/CMakeFiles/dbug.dir/flags.make
 dbug/CMakeFiles/dbug.dir/dbug.c.o: dbug/dbug.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dbug/CMakeFiles/dbug.dir/dbug.c.o"
-	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/dbug.dir/dbug.c.o   -c /home/huanghao/mysql-connector-c/dbug/dbug.c
+	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dbug.dir/dbug.c.o   -c /home/huanghao/mysql-connector-c/dbug/dbug.c
 
 dbug/CMakeFiles/dbug.dir/dbug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dbug.dir/dbug.c.i"
-	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/dbug/dbug.c > CMakeFiles/dbug.dir/dbug.c.i
+	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/dbug/dbug.c > CMakeFiles/dbug.dir/dbug.c.i
 
 dbug/CMakeFiles/dbug.dir/dbug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dbug.dir/dbug.c.s"
-	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/dbug/dbug.c -o CMakeFiles/dbug.dir/dbug.c.s
+	cd /home/huanghao/mysql-connector-c/dbug && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/dbug/dbug.c -o CMakeFiles/dbug.dir/dbug.c.s
 
 dbug/CMakeFiles/dbug.dir/dbug.c.o.requires:
 .PHONY : dbug/CMakeFiles/dbug.dir/dbug.c.o.requires

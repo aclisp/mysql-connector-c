@@ -50,15 +50,15 @@ regex/CMakeFiles/regex.dir/regcomp.c.o: regex/CMakeFiles/regex.dir/flags.make
 regex/CMakeFiles/regex.dir/regcomp.c.o: regex/regcomp.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object regex/CMakeFiles/regex.dir/regcomp.c.o"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/regex.dir/regcomp.c.o   -c /home/huanghao/mysql-connector-c/regex/regcomp.c
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/regex.dir/regcomp.c.o   -c /home/huanghao/mysql-connector-c/regex/regcomp.c
 
 regex/CMakeFiles/regex.dir/regcomp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/regex.dir/regcomp.c.i"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/regex/regcomp.c > CMakeFiles/regex.dir/regcomp.c.i
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/regex/regcomp.c > CMakeFiles/regex.dir/regcomp.c.i
 
 regex/CMakeFiles/regex.dir/regcomp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/regex.dir/regcomp.c.s"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/regex/regcomp.c -o CMakeFiles/regex.dir/regcomp.c.s
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/regex/regcomp.c -o CMakeFiles/regex.dir/regcomp.c.s
 
 regex/CMakeFiles/regex.dir/regcomp.c.o.requires:
 .PHONY : regex/CMakeFiles/regex.dir/regcomp.c.o.requires
@@ -73,15 +73,15 @@ regex/CMakeFiles/regex.dir/regerror.c.o: regex/CMakeFiles/regex.dir/flags.make
 regex/CMakeFiles/regex.dir/regerror.c.o: regex/regerror.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object regex/CMakeFiles/regex.dir/regerror.c.o"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/regex.dir/regerror.c.o   -c /home/huanghao/mysql-connector-c/regex/regerror.c
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/regex.dir/regerror.c.o   -c /home/huanghao/mysql-connector-c/regex/regerror.c
 
 regex/CMakeFiles/regex.dir/regerror.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/regex.dir/regerror.c.i"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/regex/regerror.c > CMakeFiles/regex.dir/regerror.c.i
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/regex/regerror.c > CMakeFiles/regex.dir/regerror.c.i
 
 regex/CMakeFiles/regex.dir/regerror.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/regex.dir/regerror.c.s"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/regex/regerror.c -o CMakeFiles/regex.dir/regerror.c.s
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/regex/regerror.c -o CMakeFiles/regex.dir/regerror.c.s
 
 regex/CMakeFiles/regex.dir/regerror.c.o.requires:
 .PHONY : regex/CMakeFiles/regex.dir/regerror.c.o.requires
@@ -96,15 +96,15 @@ regex/CMakeFiles/regex.dir/regexec.c.o: regex/CMakeFiles/regex.dir/flags.make
 regex/CMakeFiles/regex.dir/regexec.c.o: regex/regexec.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object regex/CMakeFiles/regex.dir/regexec.c.o"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/regex.dir/regexec.c.o   -c /home/huanghao/mysql-connector-c/regex/regexec.c
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/regex.dir/regexec.c.o   -c /home/huanghao/mysql-connector-c/regex/regexec.c
 
 regex/CMakeFiles/regex.dir/regexec.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/regex.dir/regexec.c.i"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/regex/regexec.c > CMakeFiles/regex.dir/regexec.c.i
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/regex/regexec.c > CMakeFiles/regex.dir/regexec.c.i
 
 regex/CMakeFiles/regex.dir/regexec.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/regex.dir/regexec.c.s"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/regex/regexec.c -o CMakeFiles/regex.dir/regexec.c.s
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/regex/regexec.c -o CMakeFiles/regex.dir/regexec.c.s
 
 regex/CMakeFiles/regex.dir/regexec.c.o.requires:
 .PHONY : regex/CMakeFiles/regex.dir/regexec.c.o.requires
@@ -119,15 +119,15 @@ regex/CMakeFiles/regex.dir/regfree.c.o: regex/CMakeFiles/regex.dir/flags.make
 regex/CMakeFiles/regex.dir/regfree.c.o: regex/regfree.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object regex/CMakeFiles/regex.dir/regfree.c.o"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/regex.dir/regfree.c.o   -c /home/huanghao/mysql-connector-c/regex/regfree.c
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/regex.dir/regfree.c.o   -c /home/huanghao/mysql-connector-c/regex/regfree.c
 
 regex/CMakeFiles/regex.dir/regfree.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/regex.dir/regfree.c.i"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/regex/regfree.c > CMakeFiles/regex.dir/regfree.c.i
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/regex/regfree.c > CMakeFiles/regex.dir/regfree.c.i
 
 regex/CMakeFiles/regex.dir/regfree.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/regex.dir/regfree.c.s"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/regex/regfree.c -o CMakeFiles/regex.dir/regfree.c.s
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/regex/regfree.c -o CMakeFiles/regex.dir/regfree.c.s
 
 regex/CMakeFiles/regex.dir/regfree.c.o.requires:
 .PHONY : regex/CMakeFiles/regex.dir/regfree.c.o.requires
@@ -142,15 +142,15 @@ regex/CMakeFiles/regex.dir/reginit.c.o: regex/CMakeFiles/regex.dir/flags.make
 regex/CMakeFiles/regex.dir/reginit.c.o: regex/reginit.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object regex/CMakeFiles/regex.dir/reginit.c.o"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -o CMakeFiles/regex.dir/reginit.c.o   -c /home/huanghao/mysql-connector-c/regex/reginit.c
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/regex.dir/reginit.c.o   -c /home/huanghao/mysql-connector-c/regex/reginit.c
 
 regex/CMakeFiles/regex.dir/reginit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/regex.dir/reginit.c.i"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -E /home/huanghao/mysql-connector-c/regex/reginit.c > CMakeFiles/regex.dir/reginit.c.i
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /home/huanghao/mysql-connector-c/regex/reginit.c > CMakeFiles/regex.dir/reginit.c.i
 
 regex/CMakeFiles/regex.dir/reginit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/regex.dir/reginit.c.s"
-	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -fPIC -S /home/huanghao/mysql-connector-c/regex/reginit.c -o CMakeFiles/regex.dir/reginit.c.s
+	cd /home/huanghao/mysql-connector-c/regex && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /home/huanghao/mysql-connector-c/regex/reginit.c -o CMakeFiles/regex.dir/reginit.c.s
 
 regex/CMakeFiles/regex.dir/reginit.c.o.requires:
 .PHONY : regex/CMakeFiles/regex.dir/reginit.c.o.requires

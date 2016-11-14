@@ -237,7 +237,7 @@
 #define DEFAULT_MYSQL_HOME "./install"
 #define SHAREDIR "./install/share"
 #define DEFAULT_BASEDIR "./install"
-#define MYSQL_DATADIR "./install/data"
+#define MYSQL_DATADIR "./mysql/data"
 #define DEFAULT_CHARSET_HOME "./install"
 #define PLUGINDIR "./install/lib/plugin"
 #define DEFAULT_SYSCONFDIR "/usr/local/mysql/etc"

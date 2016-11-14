@@ -663,8 +663,8 @@ mysys/preinstall:
 # Target rules for target mysys/CMakeFiles/mysys.dir
 
 # All Build rule for target.
-mysys/CMakeFiles/mysys.dir/all: strings/CMakeFiles/strings.dir/all
 mysys/CMakeFiles/mysys.dir/all: zlib/CMakeFiles/zlib.dir/all
+mysys/CMakeFiles/mysys.dir/all: strings/CMakeFiles/strings.dir/all
 	$(MAKE) -f mysys/CMakeFiles/mysys.dir/build.make mysys/CMakeFiles/mysys.dir/depend
 	$(MAKE) -f mysys/CMakeFiles/mysys.dir/build.make mysys/CMakeFiles/mysys.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
@@ -715,10 +715,10 @@ mysys_ssl/preinstall:
 
 # All Build rule for target.
 mysys_ssl/CMakeFiles/mysys_ssl.dir/all: extra/yassl/CMakeFiles/yassl.dir/all
-mysys_ssl/CMakeFiles/mysys_ssl.dir/all: dbug/CMakeFiles/dbug.dir/all
-mysys_ssl/CMakeFiles/mysys_ssl.dir/all: strings/CMakeFiles/strings.dir/all
 mysys_ssl/CMakeFiles/mysys_ssl.dir/all: extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/all
 mysys_ssl/CMakeFiles/mysys_ssl.dir/all: zlib/CMakeFiles/zlib.dir/all
+mysys_ssl/CMakeFiles/mysys_ssl.dir/all: dbug/CMakeFiles/dbug.dir/all
+mysys_ssl/CMakeFiles/mysys_ssl.dir/all: strings/CMakeFiles/strings.dir/all
 	$(MAKE) -f mysys_ssl/CMakeFiles/mysys_ssl.dir/build.make mysys_ssl/CMakeFiles/mysys_ssl.dir/depend
 	$(MAKE) -f mysys_ssl/CMakeFiles/mysys_ssl.dir/build.make mysys_ssl/CMakeFiles/mysys_ssl.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles  49 50 51 52 53
@@ -810,13 +810,13 @@ clean: libmysql/CMakeFiles/clientlib.dir/clean
 
 # All Build rule for target.
 libmysql/CMakeFiles/libmysql_api_test.dir/all: extra/yassl/CMakeFiles/yassl.dir/all
+libmysql/CMakeFiles/libmysql_api_test.dir/all: extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/all
+libmysql/CMakeFiles/libmysql_api_test.dir/all: zlib/CMakeFiles/zlib.dir/all
 libmysql/CMakeFiles/libmysql_api_test.dir/all: dbug/CMakeFiles/dbug.dir/all
+libmysql/CMakeFiles/libmysql_api_test.dir/all: strings/CMakeFiles/strings.dir/all
+libmysql/CMakeFiles/libmysql_api_test.dir/all: vio/CMakeFiles/vio.dir/all
 libmysql/CMakeFiles/libmysql_api_test.dir/all: mysys_ssl/CMakeFiles/mysys_ssl.dir/all
 libmysql/CMakeFiles/libmysql_api_test.dir/all: libmysql/CMakeFiles/clientlib.dir/all
-libmysql/CMakeFiles/libmysql_api_test.dir/all: strings/CMakeFiles/strings.dir/all
-libmysql/CMakeFiles/libmysql_api_test.dir/all: extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/all
-libmysql/CMakeFiles/libmysql_api_test.dir/all: vio/CMakeFiles/vio.dir/all
-libmysql/CMakeFiles/libmysql_api_test.dir/all: zlib/CMakeFiles/zlib.dir/all
 	$(MAKE) -f libmysql/CMakeFiles/libmysql_api_test.dir/build.make libmysql/CMakeFiles/libmysql_api_test.dir/depend
 	$(MAKE) -f libmysql/CMakeFiles/libmysql_api_test.dir/build.make libmysql/CMakeFiles/libmysql_api_test.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles  7
@@ -852,13 +852,13 @@ clean: libmysql/CMakeFiles/libmysql_api_test.dir/clean
 
 # All Build rule for target.
 libmysql/CMakeFiles/mysqlclient.dir/all: extra/yassl/CMakeFiles/yassl.dir/all
+libmysql/CMakeFiles/mysqlclient.dir/all: extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/all
+libmysql/CMakeFiles/mysqlclient.dir/all: zlib/CMakeFiles/zlib.dir/all
 libmysql/CMakeFiles/mysqlclient.dir/all: dbug/CMakeFiles/dbug.dir/all
+libmysql/CMakeFiles/mysqlclient.dir/all: strings/CMakeFiles/strings.dir/all
+libmysql/CMakeFiles/mysqlclient.dir/all: vio/CMakeFiles/vio.dir/all
 libmysql/CMakeFiles/mysqlclient.dir/all: mysys_ssl/CMakeFiles/mysys_ssl.dir/all
 libmysql/CMakeFiles/mysqlclient.dir/all: libmysql/CMakeFiles/clientlib.dir/all
-libmysql/CMakeFiles/mysqlclient.dir/all: strings/CMakeFiles/strings.dir/all
-libmysql/CMakeFiles/mysqlclient.dir/all: extra/yassl/taocrypt/CMakeFiles/taocrypt.dir/all
-libmysql/CMakeFiles/mysqlclient.dir/all: vio/CMakeFiles/vio.dir/all
-libmysql/CMakeFiles/mysqlclient.dir/all: zlib/CMakeFiles/zlib.dir/all
 	$(MAKE) -f libmysql/CMakeFiles/mysqlclient.dir/build.make libmysql/CMakeFiles/mysqlclient.dir/depend
 	$(MAKE) -f libmysql/CMakeFiles/mysqlclient.dir/build.make libmysql/CMakeFiles/mysqlclient.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/huanghao/mysql-connector-c/CMakeFiles  9
