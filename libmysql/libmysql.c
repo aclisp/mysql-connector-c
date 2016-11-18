@@ -1098,7 +1098,7 @@ void my_net_local_init(NET *net)
   net->max_packet=   (uint) net_buffer_length;
   my_net_set_read_timeout(net, CLIENT_NET_READ_TIMEOUT);
   my_net_set_write_timeout(net, CLIENT_NET_WRITE_TIMEOUT);
-  net->retry_count=  1;
+  net->retry_count=  100000;  /* HH Fix: make interrupted operations always continue! */
   net->max_packet_size= MY_MAX(net_buffer_length, max_allowed_packet);
 }
 

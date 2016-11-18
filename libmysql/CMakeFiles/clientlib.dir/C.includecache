@@ -6,42 +6,30 @@
 
 #IncludeRegexTransform: 
 
-/home/huanghao/mysql-connector-c/sql-common/../libmysql/mysql_trace.h
-mysql/plugin_trace.h
--
-sql_common.h
--
-stdarg.h
--
+/home/huanghao/mysql-connector-c/libmysql/client_settings.h
 
-/home/huanghao/mysql-connector-c/sql-common/client.c
+/home/huanghao/mysql-connector-c/libmysql/libmysql.c
 my_global.h
 -
-mysql.h
-/home/huanghao/mysql-connector-c/sql-common/mysql.h
-hash.h
-/home/huanghao/mysql-connector-c/sql-common/hash.h
-mysql/client_authentication.h
-/home/huanghao/mysql-connector-c/sql-common/mysql/client_authentication.h
 my_sys.h
 -
-my_default.h
-/home/huanghao/mysql-connector-c/sql-common/my_default.h
+my_time.h
+-
 mysys_err.h
 -
 m_string.h
 -
 m_ctype.h
 -
+mysql.h
+/home/huanghao/mysql-connector-c/libmysql/mysql.h
 mysql_version.h
-/home/huanghao/mysql-connector-c/sql-common/mysql_version.h
+/home/huanghao/mysql-connector-c/libmysql/mysql_version.h
 mysqld_error.h
-/home/huanghao/mysql-connector-c/sql-common/mysqld_error.h
+/home/huanghao/mysql-connector-c/libmysql/mysqld_error.h
 errmsg.h
-/home/huanghao/mysql-connector-c/sql-common/errmsg.h
+/home/huanghao/mysql-connector-c/libmysql/errmsg.h
 violite.h
--
-my_pthread.h
 -
 sys/stat.h
 -
@@ -53,23 +41,27 @@ pwd.h
 -
 sys/select.h
 -
+sys/poll.h
+-
 sys/un.h
 -
-errno.h
+my_pthread.h
 -
-client_settings.h
-/home/huanghao/mysql-connector-c/sql-common/client_settings.h
 sql_common.h
 -
-mysql/client_plugin.h
+client_settings.h
+/home/huanghao/mysql-connector-c/libmysql/client_settings.h
+mysql_trace.h
+/home/huanghao/mysql-connector-c/libmysql/mysql_trace.h
+errno.h
 -
-../libmysql/mysql_trace.h
-/home/huanghao/mysql-connector-c/sql-common/../libmysql/mysql_trace.h
-stdlib.h
+
+/home/huanghao/mysql-connector-c/libmysql/mysql_trace.h
+mysql/plugin_trace.h
 -
-langinfo.h
+sql_common.h
 -
-locale.h
+stdarg.h
 -
 
 extra/yassl/include/openssl/err.h
@@ -151,10 +143,6 @@ crtdbg.h
 -
 sstream
 -
-
-include/my_default.h
-my_global.h
-include/my_global.h
 
 include/my_dir.h
 my_global.h
@@ -268,6 +256,12 @@ mysql/psi/psi.h
 
 include/my_thread_local.h
 
+include/my_time.h
+my_global.h
+include/my_global.h
+mysql_time.h
+include/mysql_time.h
+
 include/mysql.h
 sys/types.h
 -
@@ -289,14 +283,6 @@ typelib.h
 include/typelib.h
 my_alloc.h
 include/my_alloc.h
-
-include/mysql/client_authentication.h
-my_global.h
--
-mysql.h
-include/mysql/mysql.h
-mysql/client_plugin.h
-include/mysql/mysql/client_plugin.h
 
 include/mysql/client_plugin.h
 stdarg.h
@@ -399,6 +385,4 @@ openssl/ssl.h
 -
 openssl/err.h
 -
-
-libmysql/client_settings.h
 
