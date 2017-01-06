@@ -4442,7 +4442,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
     {
       DBUG_PRINT("error",("Got error %d on connect to '%s'", saved_error, host));
       set_mysql_extended_error(mysql, CR_CONN_HOST_ERROR, unknown_sqlstate,
-                                ER(CR_CONN_HOST_ERROR), host, saved_error);
+                                ER(CR_CONN_HOST_ERROR), host, port, saved_error);
       goto error;
     }
   }
