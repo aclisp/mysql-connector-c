@@ -3435,6 +3435,7 @@ cli_establish_ssl(MYSQL *mysql)
     {
       set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                                ER(CR_SERVER_LOST_EXTENDED),
+                               mysql->host, mysql->port, mysql->user,
                                "sending connection information to server",
                                errno);
       goto error;
@@ -3617,6 +3618,7 @@ static int send_client_reply_packet(MCPVIO_EXT *mpvio,
   {
     set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                              ER(CR_SERVER_LOST_EXTENDED),
+                             mysql->host, mysql->port, mysql->user,
                              "sending authentication information",
                              errno);
     goto error;
@@ -3728,6 +3730,7 @@ static int client_mpvio_write_packet(struct st_plugin_vio *mpv,
     else
       set_mysql_extended_error(mpvio->mysql, CR_SERVER_LOST, unknown_sqlstate,
                                ER(CR_SERVER_LOST_EXTENDED),
+                               mpvio->mysql->host, mpvio->mysql->port, mpvio->mysql->user,
                                "sending authentication information",
                                errno);
   }
@@ -3916,6 +3919,7 @@ int run_plugin_auth(MYSQL *mysql, char *data, uint data_len,
     if (mysql->net.last_errno == CR_SERVER_LOST)
       set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                                ER(CR_SERVER_LOST_EXTENDED),
+                               mysql->host, mysql->port, mysql->user,
                                "reading authorization packet",
                                errno);
     DBUG_RETURN (1);
@@ -3977,6 +3981,7 @@ int run_plugin_auth(MYSQL *mysql, char *data, uint data_len,
         if (mysql->net.last_errno == CR_SERVER_LOST)
           set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                                    ER(CR_SERVER_LOST_EXTENDED),
+                                   mysql->host, mysql->port, mysql->user,
                                    "reading final connect information",
                                    errno);
         DBUG_RETURN (1);
@@ -4442,7 +4447,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
     {
       DBUG_PRINT("error",("Got error %d on connect to '%s'", saved_error, host));
       set_mysql_extended_error(mysql, CR_CONN_HOST_ERROR, unknown_sqlstate,
-                                ER(CR_CONN_HOST_ERROR), host, port, saved_error);
+                                ER(CR_CONN_HOST_ERROR), host, port, user, saved_error);
       goto error;
     }
   }
@@ -4487,6 +4492,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
   {
     set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                              ER(CR_SERVER_LOST_EXTENDED),
+                             host, port, user,
                              "waiting for initial communication packet",
                              socket_errno);
     goto error;
@@ -4502,6 +4508,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
     if (mysql->net.last_errno == CR_SERVER_LOST)
       set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                                ER(CR_SERVER_LOST_EXTENDED),
+                               host, port, user,
                                "reading initial communication packet",
                                socket_errno);
     goto error;
@@ -4643,6 +4650,7 @@ CLI_MYSQL_REAL_CONNECT(MYSQL *mysql,const char *host, const char *user,
     if (mysql->net.last_errno == CR_SERVER_LOST)
         set_mysql_extended_error(mysql, CR_SERVER_LOST, unknown_sqlstate,
                                  ER(CR_SERVER_LOST_EXTENDED),
+                                 host, port, user,
                                  "Setting intital database",
                                  errno);
     goto error;
